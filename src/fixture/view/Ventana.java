@@ -54,36 +54,48 @@ public class Ventana extends javax.swing.JFrame {
         panelBody = new javax.swing.JPanel();
         tabbedPane = new javax.swing.JTabbedPane();
         panelGrupoC = new javax.swing.JPanel();
-        jPanel26 = new javax.swing.JPanel();
+        jPanel34 = new javax.swing.JPanel();
         lblFechaPartidoGrupoC6 = new javax.swing.JLabel();
+        lblNombreEstadioGrupoC6 = new javax.swing.JLabel();
         lblEquipoLocalGrupoC6 = new javax.swing.JLabel();
         lblEquipoVisitanteGrupoC6 = new javax.swing.JLabel();
-        lblNombreEstadioGrupoC6 = new javax.swing.JLabel();
-        jPanel27 = new javax.swing.JPanel();
-        lblFechaPartidoGrupoC4 = new javax.swing.JLabel();
-        lblEquipoLocalGrupoC4 = new javax.swing.JLabel();
-        lblEquipoVisitanteGrupoC4 = new javax.swing.JLabel();
-        lblNombreEstadioGrupoC4 = new javax.swing.JLabel();
-        jPanel28 = new javax.swing.JPanel();
+        jTextField36 = new javax.swing.JTextField();
+        jTextField35 = new javax.swing.JTextField();
+        jPanel23 = new javax.swing.JPanel();
         lblFechaPartidoGrupoC5 = new javax.swing.JLabel();
+        lblNombreEstadioGrupoC5 = new javax.swing.JLabel();
         lblEquipoLocalGrupoC5 = new javax.swing.JLabel();
         lblEquipoVisitanteGrupoC5 = new javax.swing.JLabel();
-        lblNombreEstadioGrupoC5 = new javax.swing.JLabel();
-        jPanel18 = new javax.swing.JPanel();
-        lblFechaPartidoGrupoC3 = new javax.swing.JLabel();
-        lblEquipoLocalGrupoC3 = new javax.swing.JLabel();
-        lblEquipoVisitanteGrupoC3 = new javax.swing.JLabel();
-        lblNombreEstadioGrupoC3 = new javax.swing.JLabel();
-        jPanel5 = new javax.swing.JPanel();
-        lblFechaPartidoGrupoC1 = new javax.swing.JLabel();
-        lblEquipoLocalGrupoC1 = new javax.swing.JLabel();
-        lblEquipoVisitanteGrupoC1 = new javax.swing.JLabel();
-        lblNombreEstadioGrupoC1 = new javax.swing.JLabel();
-        jPanel29 = new javax.swing.JPanel();
+        jTextField34 = new javax.swing.JTextField();
+        jTextField33 = new javax.swing.JTextField();
+        jPanel35 = new javax.swing.JPanel();
+        lblFechaPartidoGrupoC4 = new javax.swing.JLabel();
+        lblNombreEstadioGrupoC4 = new javax.swing.JLabel();
+        lblEquipoLocalGrupoC4 = new javax.swing.JLabel();
+        lblEquipoVisitanteGrupoC4 = new javax.swing.JLabel();
+        jTextField31 = new javax.swing.JTextField();
+        jTextField32 = new javax.swing.JTextField();
+        jPanel36 = new javax.swing.JPanel();
         lblFechaPartidoGrupoC2 = new javax.swing.JLabel();
+        lblNombreEstadioGrupoC2 = new javax.swing.JLabel();
         lblEquipoLocalGrupoC2 = new javax.swing.JLabel();
         lblEquipoVisitanteGrupoC2 = new javax.swing.JLabel();
-        lblNombreEstadioGrupoC2 = new javax.swing.JLabel();
+        jTextField27 = new javax.swing.JTextField();
+        jTextField28 = new javax.swing.JTextField();
+        jPanel37 = new javax.swing.JPanel();
+        lblFechaPartidoGrupoC3 = new javax.swing.JLabel();
+        lblNombreEstadioGrupoC3 = new javax.swing.JLabel();
+        lblEquipoLocalGrupoC3 = new javax.swing.JLabel();
+        lblEquipoVisitanteGrupoC3 = new javax.swing.JLabel();
+        jTextField30 = new javax.swing.JTextField();
+        jTextField29 = new javax.swing.JTextField();
+        jPanel4 = new javax.swing.JPanel();
+        lblFechaPartidoGrupoC1 = new javax.swing.JLabel();
+        lblNombreEstadioGrupoC1 = new javax.swing.JLabel();
+        lblEquipoLocalGrupoC1 = new javax.swing.JLabel();
+        lblEquipoVisitanteGrupoC1 = new javax.swing.JLabel();
+        jTextField25 = new javax.swing.JTextField();
+        jTextField26 = new javax.swing.JTextField();
         panelGrupoD = new javax.swing.JPanel();
         panelGrupoE = new javax.swing.JPanel();
         panelGrupoF = new javax.swing.JPanel();
@@ -95,67 +107,92 @@ public class Ventana extends javax.swing.JFrame {
         panelTercerPuesto = new javax.swing.JPanel();
         panelFinal = new javax.swing.JPanel();
         panelGrupoA = new javax.swing.JPanel();
+        jPanel1 = new javax.swing.JPanel();
         jPanel2 = new javax.swing.JPanel();
         lblFechaPartidoGrupoA1 = new javax.swing.JLabel();
         lblNombreEstadioGrupoA1 = new javax.swing.JLabel();
         lblEquipoLocalGrupoA1 = new javax.swing.JLabel();
         lblEquipoVisitanteGrupoA1 = new javax.swing.JLabel();
+        jTextField1 = new javax.swing.JTextField();
+        jTextField2 = new javax.swing.JTextField();
         jPanel14 = new javax.swing.JPanel();
         lblFechaPartidoGrupoA2 = new javax.swing.JLabel();
         lblNombreEstadioGrupoA2 = new javax.swing.JLabel();
         lblEquipoLocalGrupoA2 = new javax.swing.JLabel();
         lblEquipoVisitanteGrupoA2 = new javax.swing.JLabel();
+        jTextField4 = new javax.swing.JTextField();
+        jTextField3 = new javax.swing.JTextField();
         jPanel15 = new javax.swing.JPanel();
         lblFechaPartidoGrupoA3 = new javax.swing.JLabel();
         lblNombreEstadioGrupoA3 = new javax.swing.JLabel();
         lblEquipoLocalGrupoA3 = new javax.swing.JLabel();
         lblEquipoVisitanteGrupoA3 = new javax.swing.JLabel();
+        jTextField6 = new javax.swing.JTextField();
+        jTextField5 = new javax.swing.JTextField();
         jPanel19 = new javax.swing.JPanel();
         lblFechaPartidoGrupoA4 = new javax.swing.JLabel();
         lblNombreEstadioGrupoA4 = new javax.swing.JLabel();
         lblEquipoLocalGrupoA4 = new javax.swing.JLabel();
         lblEquipoVisitanteGrupoA4 = new javax.swing.JLabel();
+        jTextField7 = new javax.swing.JTextField();
+        jTextField8 = new javax.swing.JTextField();
         jPanel20 = new javax.swing.JPanel();
         lblFechaPartidoGrupoA5 = new javax.swing.JLabel();
         lblNombreEstadioGrupoA5 = new javax.swing.JLabel();
         lblEquipoLocalGrupoA5 = new javax.swing.JLabel();
         lblEquipoVisitanteGrupoA5 = new javax.swing.JLabel();
+        jTextField10 = new javax.swing.JTextField();
+        jTextField9 = new javax.swing.JTextField();
         jPanel21 = new javax.swing.JPanel();
         lblFechaPartidoGrupoA6 = new javax.swing.JLabel();
         lblNombreEstadioGrupoA6 = new javax.swing.JLabel();
         lblEquipoLocalGrupoA6 = new javax.swing.JLabel();
         lblEquipoVisitanteGrupoA6 = new javax.swing.JLabel();
+        jTextField11 = new javax.swing.JTextField();
+        jTextField12 = new javax.swing.JTextField();
         panelGrupoB = new javax.swing.JPanel();
-        jPanel23 = new javax.swing.JPanel();
-        lblFechaPartidoGrupoB6 = new javax.swing.JLabel();
-        lblNombreEstadioGrupoB6 = new javax.swing.JLabel();
-        lblEquipoLocalGrupoB6 = new javax.swing.JLabel();
-        lblEquipoVisitanteGrupoB6 = new javax.swing.JLabel();
-        jPanel24 = new javax.swing.JPanel();
-        lblFechaPartidoGrupoB4 = new javax.swing.JLabel();
-        lblNombreEstadioGrupoB4 = new javax.swing.JLabel();
-        lblEquipoLocalGrupoB4 = new javax.swing.JLabel();
-        lblEquipoVisitanteGrupoB4 = new javax.swing.JLabel();
-        jPanel25 = new javax.swing.JPanel();
+        jPanel22 = new javax.swing.JPanel();
         lblFechaPartidoGrupoB5 = new javax.swing.JLabel();
         lblNombreEstadioGrupoB5 = new javax.swing.JLabel();
         lblEquipoLocalGrupoB5 = new javax.swing.JLabel();
         lblEquipoVisitanteGrupoB5 = new javax.swing.JLabel();
-        jPanel16 = new javax.swing.JPanel();
+        jTextField22 = new javax.swing.JTextField();
+        jTextField21 = new javax.swing.JTextField();
+        jPanel30 = new javax.swing.JPanel();
         lblFechaPartidoGrupoB3 = new javax.swing.JLabel();
         lblNombreEstadioGrupoB3 = new javax.swing.JLabel();
         lblEquipoLocalGrupoB3 = new javax.swing.JLabel();
         lblEquipoVisitanteGrupoB3 = new javax.swing.JLabel();
-        jPanel4 = new javax.swing.JPanel();
-        lblFechaPartidoGrupoB1 = new javax.swing.JLabel();
-        lblNombreEstadioGrupoB1 = new javax.swing.JLabel();
-        lblEquipoLocalGrupoB1 = new javax.swing.JLabel();
-        lblEquipoVisitanteGrupoB1 = new javax.swing.JLabel();
-        jPanel17 = new javax.swing.JPanel();
+        jTextField17 = new javax.swing.JTextField();
+        jTextField18 = new javax.swing.JTextField();
+        jPanel31 = new javax.swing.JPanel();
+        lblFechaPartidoGrupoB6 = new javax.swing.JLabel();
+        lblNombreEstadioGrupoB6 = new javax.swing.JLabel();
+        lblEquipoLocalGrupoB6 = new javax.swing.JLabel();
+        lblEquipoVisitanteGrupoB6 = new javax.swing.JLabel();
+        jTextField23 = new javax.swing.JTextField();
+        jTextField24 = new javax.swing.JTextField();
+        jPanel32 = new javax.swing.JPanel();
+        lblFechaPartidoGrupoB4 = new javax.swing.JLabel();
+        lblNombreEstadioGrupoB4 = new javax.swing.JLabel();
+        lblEquipoLocalGrupoB4 = new javax.swing.JLabel();
+        lblEquipoVisitanteGrupoB4 = new javax.swing.JLabel();
+        jTextField19 = new javax.swing.JTextField();
+        jTextField20 = new javax.swing.JTextField();
+        jPanel33 = new javax.swing.JPanel();
         lblFechaPartidoGrupoB2 = new javax.swing.JLabel();
         lblNombreEstadioGrupoB2 = new javax.swing.JLabel();
         lblEquipoLocalGrupoB2 = new javax.swing.JLabel();
         lblEquipoVisitanteGrupoB2 = new javax.swing.JLabel();
+        jTextField15 = new javax.swing.JTextField();
+        jTextField16 = new javax.swing.JTextField();
+        jPanel3 = new javax.swing.JPanel();
+        lblFechaPartidoGrupoB1 = new javax.swing.JLabel();
+        lblNombreEstadioGrupoB1 = new javax.swing.JLabel();
+        lblEquipoLocalGrupoB1 = new javax.swing.JLabel();
+        lblEquipoVisitanteGrupoB1 = new javax.swing.JLabel();
+        jTextField13 = new javax.swing.JTextField();
+        jTextField14 = new javax.swing.JTextField();
         panelHeader = new javax.swing.JPanel();
         labelLogo = new javax.swing.JLabel();
         labelTitulo = new javax.swing.JLabel();
@@ -176,83 +213,54 @@ public class Ventana extends javax.swing.JFrame {
 
         lblFechaPartidoGrupoC6.setText("FechaPartidoGrupoC");
 
+        lblNombreEstadioGrupoC6.setText("NombreEstadio");
+
         lblEquipoLocalGrupoC6.setFont(new java.awt.Font("Segoe UI", 1, 14)); // NOI18N
         lblEquipoLocalGrupoC6.setText("Equipo Local");
 
         lblEquipoVisitanteGrupoC6.setFont(new java.awt.Font("Segoe UI", 1, 14)); // NOI18N
         lblEquipoVisitanteGrupoC6.setText("Equipo Visitante");
 
-        lblNombreEstadioGrupoC6.setText("NombreEstadio");
-
-        javax.swing.GroupLayout jPanel26Layout = new javax.swing.GroupLayout(jPanel26);
-        jPanel26.setLayout(jPanel26Layout);
-        jPanel26Layout.setHorizontalGroup(
-            jPanel26Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGroup(jPanel26Layout.createSequentialGroup()
-                .addGroup(jPanel26Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                    .addComponent(lblEquipoLocalGrupoC6)
-                    .addComponent(lblFechaPartidoGrupoC6))
-                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, 154, Short.MAX_VALUE)
-                .addGroup(jPanel26Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                    .addComponent(lblEquipoVisitanteGrupoC6, javax.swing.GroupLayout.Alignment.TRAILING)
-                    .addComponent(lblNombreEstadioGrupoC6, javax.swing.GroupLayout.Alignment.TRAILING)))
+        javax.swing.GroupLayout jPanel34Layout = new javax.swing.GroupLayout(jPanel34);
+        jPanel34.setLayout(jPanel34Layout);
+        jPanel34Layout.setHorizontalGroup(
+            jPanel34Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(jPanel34Layout.createSequentialGroup()
+                .addComponent(lblFechaPartidoGrupoC6)
+                .addGap(483, 483, 483)
+                .addComponent(lblNombreEstadioGrupoC6))
+            .addGroup(jPanel34Layout.createSequentialGroup()
+                .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+                .addComponent(lblEquipoLocalGrupoC6)
+                .addGap(10, 10, 10)
+                .addComponent(jTextField36, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addGap(129, 129, 129)
+                .addComponent(jTextField35, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addGap(10, 10, 10)
+                .addComponent(lblEquipoVisitanteGrupoC6)
+                .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
         );
-        jPanel26Layout.setVerticalGroup(
-            jPanel26Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGroup(jPanel26Layout.createSequentialGroup()
+        jPanel34Layout.setVerticalGroup(
+            jPanel34Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(jPanel34Layout.createSequentialGroup()
                 .addGap(20, 20, 20)
-                .addGroup(jPanel26Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                    .addGroup(jPanel26Layout.createSequentialGroup()
-                        .addComponent(lblNombreEstadioGrupoC6)
-                        .addGap(18, 18, 18)
-                        .addComponent(lblEquipoVisitanteGrupoC6))
-                    .addGroup(jPanel26Layout.createSequentialGroup()
+                .addGroup(jPanel34Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                    .addComponent(lblNombreEstadioGrupoC6)
+                    .addGroup(jPanel34Layout.createSequentialGroup()
                         .addComponent(lblFechaPartidoGrupoC6)
                         .addGap(18, 18, 18)
-                        .addComponent(lblEquipoLocalGrupoC6)))
-                .addGap(20, 20, 20))
-        );
-
-        lblFechaPartidoGrupoC4.setText("FechaPartidoGrupoC");
-
-        lblEquipoLocalGrupoC4.setFont(new java.awt.Font("Segoe UI", 1, 14)); // NOI18N
-        lblEquipoLocalGrupoC4.setText("Equipo Local");
-
-        lblEquipoVisitanteGrupoC4.setFont(new java.awt.Font("Segoe UI", 1, 14)); // NOI18N
-        lblEquipoVisitanteGrupoC4.setText("Equipo Visitante");
-
-        lblNombreEstadioGrupoC4.setText("NombreEstadio");
-
-        javax.swing.GroupLayout jPanel27Layout = new javax.swing.GroupLayout(jPanel27);
-        jPanel27.setLayout(jPanel27Layout);
-        jPanel27Layout.setHorizontalGroup(
-            jPanel27Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGroup(jPanel27Layout.createSequentialGroup()
-                .addGroup(jPanel27Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                    .addComponent(lblEquipoLocalGrupoC4)
-                    .addComponent(lblFechaPartidoGrupoC4))
-                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
-                .addGroup(jPanel27Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                    .addComponent(lblEquipoVisitanteGrupoC4, javax.swing.GroupLayout.Alignment.TRAILING)
-                    .addComponent(lblNombreEstadioGrupoC4, javax.swing.GroupLayout.Alignment.TRAILING)))
-        );
-        jPanel27Layout.setVerticalGroup(
-            jPanel27Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGroup(jPanel27Layout.createSequentialGroup()
-                .addGap(20, 20, 20)
-                .addGroup(jPanel27Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                    .addGroup(jPanel27Layout.createSequentialGroup()
-                        .addComponent(lblNombreEstadioGrupoC4)
-                        .addGap(18, 18, 18)
-                        .addComponent(lblEquipoVisitanteGrupoC4))
-                    .addGroup(jPanel27Layout.createSequentialGroup()
-                        .addComponent(lblFechaPartidoGrupoC4)
-                        .addGap(18, 18, 18)
-                        .addComponent(lblEquipoLocalGrupoC4)))
-                .addGap(20, 20, 20))
+                        .addGroup(jPanel34Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
+                            .addComponent(lblEquipoLocalGrupoC6)
+                            .addComponent(lblEquipoVisitanteGrupoC6)
+                            .addGroup(jPanel34Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
+                                .addComponent(jTextField36, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
+                                .addComponent(jTextField35, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)))))
+                .addGap(18, 18, 18))
         );
 
         lblFechaPartidoGrupoC5.setText("FechaPartidoGrupoC");
+
+        lblNombreEstadioGrupoC5.setText("NombreEstadio");
 
         lblEquipoLocalGrupoC5.setFont(new java.awt.Font("Segoe UI", 1, 14)); // NOI18N
         lblEquipoLocalGrupoC5.setText("Equipo Local");
@@ -260,116 +268,92 @@ public class Ventana extends javax.swing.JFrame {
         lblEquipoVisitanteGrupoC5.setFont(new java.awt.Font("Segoe UI", 1, 14)); // NOI18N
         lblEquipoVisitanteGrupoC5.setText("Equipo Visitante");
 
-        lblNombreEstadioGrupoC5.setText("NombreEstadio");
-
-        javax.swing.GroupLayout jPanel28Layout = new javax.swing.GroupLayout(jPanel28);
-        jPanel28.setLayout(jPanel28Layout);
-        jPanel28Layout.setHorizontalGroup(
-            jPanel28Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGroup(jPanel28Layout.createSequentialGroup()
-                .addGroup(jPanel28Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                    .addComponent(lblEquipoLocalGrupoC5)
-                    .addComponent(lblFechaPartidoGrupoC5))
-                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
-                .addGroup(jPanel28Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                    .addComponent(lblEquipoVisitanteGrupoC5, javax.swing.GroupLayout.Alignment.TRAILING)
-                    .addComponent(lblNombreEstadioGrupoC5, javax.swing.GroupLayout.Alignment.TRAILING)))
+        javax.swing.GroupLayout jPanel23Layout = new javax.swing.GroupLayout(jPanel23);
+        jPanel23.setLayout(jPanel23Layout);
+        jPanel23Layout.setHorizontalGroup(
+            jPanel23Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(jPanel23Layout.createSequentialGroup()
+                .addComponent(lblFechaPartidoGrupoC5)
+                .addGap(483, 483, 483)
+                .addComponent(lblNombreEstadioGrupoC5))
+            .addGroup(jPanel23Layout.createSequentialGroup()
+                .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+                .addComponent(lblEquipoLocalGrupoC5)
+                .addGap(10, 10, 10)
+                .addComponent(jTextField34, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addGap(129, 129, 129)
+                .addComponent(jTextField33, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addGap(10, 10, 10)
+                .addComponent(lblEquipoVisitanteGrupoC5)
+                .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
         );
-        jPanel28Layout.setVerticalGroup(
-            jPanel28Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGroup(jPanel28Layout.createSequentialGroup()
+        jPanel23Layout.setVerticalGroup(
+            jPanel23Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(jPanel23Layout.createSequentialGroup()
                 .addGap(20, 20, 20)
-                .addGroup(jPanel28Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                    .addGroup(jPanel28Layout.createSequentialGroup()
-                        .addComponent(lblNombreEstadioGrupoC5)
-                        .addGap(18, 18, 18)
-                        .addComponent(lblEquipoVisitanteGrupoC5))
-                    .addGroup(jPanel28Layout.createSequentialGroup()
+                .addGroup(jPanel23Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                    .addComponent(lblNombreEstadioGrupoC5)
+                    .addGroup(jPanel23Layout.createSequentialGroup()
                         .addComponent(lblFechaPartidoGrupoC5)
                         .addGap(18, 18, 18)
-                        .addComponent(lblEquipoLocalGrupoC5)))
-                .addGap(20, 20, 20))
+                        .addGroup(jPanel23Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
+                            .addComponent(lblEquipoLocalGrupoC5)
+                            .addComponent(lblEquipoVisitanteGrupoC5)
+                            .addGroup(jPanel23Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
+                                .addComponent(jTextField34, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
+                                .addComponent(jTextField33, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)))))
+                .addGap(18, 18, 18))
         );
 
-        lblFechaPartidoGrupoC3.setText("FechaPartidoGrupoC");
+        lblFechaPartidoGrupoC4.setText("FechaPartidoGrupoC");
 
-        lblEquipoLocalGrupoC3.setFont(new java.awt.Font("Segoe UI", 1, 14)); // NOI18N
-        lblEquipoLocalGrupoC3.setText("Equipo Local");
+        lblNombreEstadioGrupoC4.setText("NombreEstadio");
 
-        lblEquipoVisitanteGrupoC3.setFont(new java.awt.Font("Segoe UI", 1, 14)); // NOI18N
-        lblEquipoVisitanteGrupoC3.setText("Equipo Visitante");
+        lblEquipoLocalGrupoC4.setFont(new java.awt.Font("Segoe UI", 1, 14)); // NOI18N
+        lblEquipoLocalGrupoC4.setText("Equipo Local");
 
-        lblNombreEstadioGrupoC3.setText("NombreEstadio");
+        lblEquipoVisitanteGrupoC4.setFont(new java.awt.Font("Segoe UI", 1, 14)); // NOI18N
+        lblEquipoVisitanteGrupoC4.setText("Equipo Visitante");
 
-        javax.swing.GroupLayout jPanel18Layout = new javax.swing.GroupLayout(jPanel18);
-        jPanel18.setLayout(jPanel18Layout);
-        jPanel18Layout.setHorizontalGroup(
-            jPanel18Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGroup(jPanel18Layout.createSequentialGroup()
-                .addGroup(jPanel18Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                    .addComponent(lblEquipoLocalGrupoC3)
-                    .addComponent(lblFechaPartidoGrupoC3))
-                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, 142, Short.MAX_VALUE)
-                .addGroup(jPanel18Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                    .addComponent(lblEquipoVisitanteGrupoC3, javax.swing.GroupLayout.Alignment.TRAILING)
-                    .addComponent(lblNombreEstadioGrupoC3, javax.swing.GroupLayout.Alignment.TRAILING)))
-        );
-        jPanel18Layout.setVerticalGroup(
-            jPanel18Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGroup(jPanel18Layout.createSequentialGroup()
-                .addGap(20, 20, 20)
-                .addGroup(jPanel18Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                    .addGroup(jPanel18Layout.createSequentialGroup()
-                        .addComponent(lblNombreEstadioGrupoC3)
-                        .addGap(18, 18, 18)
-                        .addComponent(lblEquipoVisitanteGrupoC3))
-                    .addGroup(jPanel18Layout.createSequentialGroup()
-                        .addComponent(lblFechaPartidoGrupoC3)
-                        .addGap(18, 18, 18)
-                        .addComponent(lblEquipoLocalGrupoC3)))
-                .addGap(20, 20, 20))
-        );
-
-        lblFechaPartidoGrupoC1.setText("FechaPartidoGrupoC");
-
-        lblEquipoLocalGrupoC1.setFont(new java.awt.Font("Segoe UI", 1, 14)); // NOI18N
-        lblEquipoLocalGrupoC1.setText("Equipo Local");
-
-        lblEquipoVisitanteGrupoC1.setFont(new java.awt.Font("Segoe UI", 1, 14)); // NOI18N
-        lblEquipoVisitanteGrupoC1.setText("Equipo Visitante");
-
-        lblNombreEstadioGrupoC1.setText("NombreEstadio");
-
-        javax.swing.GroupLayout jPanel5Layout = new javax.swing.GroupLayout(jPanel5);
-        jPanel5.setLayout(jPanel5Layout);
-        jPanel5Layout.setHorizontalGroup(
-            jPanel5Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGroup(jPanel5Layout.createSequentialGroup()
-                .addGroup(jPanel5Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                    .addComponent(lblEquipoLocalGrupoC1)
-                    .addComponent(lblFechaPartidoGrupoC1))
+        javax.swing.GroupLayout jPanel35Layout = new javax.swing.GroupLayout(jPanel35);
+        jPanel35.setLayout(jPanel35Layout);
+        jPanel35Layout.setHorizontalGroup(
+            jPanel35Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(jPanel35Layout.createSequentialGroup()
+                .addComponent(lblFechaPartidoGrupoC4)
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
-                .addGroup(jPanel5Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                    .addComponent(lblEquipoVisitanteGrupoC1, javax.swing.GroupLayout.Alignment.TRAILING)
-                    .addComponent(lblNombreEstadioGrupoC1, javax.swing.GroupLayout.Alignment.TRAILING)))
+                .addComponent(lblNombreEstadioGrupoC4))
+            .addGroup(jPanel35Layout.createSequentialGroup()
+                .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+                .addComponent(lblEquipoLocalGrupoC4)
+                .addGap(10, 10, 10)
+                .addComponent(jTextField31, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addGap(129, 129, 129)
+                .addComponent(jTextField32, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+                .addComponent(lblEquipoVisitanteGrupoC4)
+                .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
         );
-        jPanel5Layout.setVerticalGroup(
-            jPanel5Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGroup(jPanel5Layout.createSequentialGroup()
+        jPanel35Layout.setVerticalGroup(
+            jPanel35Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(jPanel35Layout.createSequentialGroup()
                 .addGap(20, 20, 20)
-                .addGroup(jPanel5Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                    .addGroup(jPanel5Layout.createSequentialGroup()
-                        .addComponent(lblNombreEstadioGrupoC1)
-                        .addGap(18, 18, 18)
-                        .addComponent(lblEquipoVisitanteGrupoC1))
-                    .addGroup(jPanel5Layout.createSequentialGroup()
-                        .addComponent(lblFechaPartidoGrupoC1)
-                        .addGap(18, 18, 18)
-                        .addComponent(lblEquipoLocalGrupoC1)))
-                .addGap(20, 20, 20))
+                .addGroup(jPanel35Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
+                    .addComponent(lblFechaPartidoGrupoC4)
+                    .addComponent(lblNombreEstadioGrupoC4))
+                .addGap(18, 18, 18)
+                .addGroup(jPanel35Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
+                    .addComponent(lblEquipoLocalGrupoC4)
+                    .addComponent(lblEquipoVisitanteGrupoC4)
+                    .addGroup(jPanel35Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
+                        .addComponent(jTextField31, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
+                        .addComponent(jTextField32, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)))
+                .addGap(18, 18, 18))
         );
 
         lblFechaPartidoGrupoC2.setText("FechaPartidoGrupoC");
+
+        lblNombreEstadioGrupoC2.setText("NombreEstadio");
 
         lblEquipoLocalGrupoC2.setFont(new java.awt.Font("Segoe UI", 1, 14)); // NOI18N
         lblEquipoLocalGrupoC2.setText("Equipo Local");
@@ -377,35 +361,140 @@ public class Ventana extends javax.swing.JFrame {
         lblEquipoVisitanteGrupoC2.setFont(new java.awt.Font("Segoe UI", 1, 14)); // NOI18N
         lblEquipoVisitanteGrupoC2.setText("Equipo Visitante");
 
-        lblNombreEstadioGrupoC2.setText("NombreEstadio");
-
-        javax.swing.GroupLayout jPanel29Layout = new javax.swing.GroupLayout(jPanel29);
-        jPanel29.setLayout(jPanel29Layout);
-        jPanel29Layout.setHorizontalGroup(
-            jPanel29Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGroup(jPanel29Layout.createSequentialGroup()
-                .addGroup(jPanel29Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                    .addComponent(lblEquipoLocalGrupoC2)
-                    .addComponent(lblFechaPartidoGrupoC2))
+        javax.swing.GroupLayout jPanel36Layout = new javax.swing.GroupLayout(jPanel36);
+        jPanel36.setLayout(jPanel36Layout);
+        jPanel36Layout.setHorizontalGroup(
+            jPanel36Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(jPanel36Layout.createSequentialGroup()
+                .addComponent(lblFechaPartidoGrupoC2)
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
-                .addGroup(jPanel29Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                    .addComponent(lblEquipoVisitanteGrupoC2, javax.swing.GroupLayout.Alignment.TRAILING)
-                    .addComponent(lblNombreEstadioGrupoC2, javax.swing.GroupLayout.Alignment.TRAILING)))
+                .addComponent(lblNombreEstadioGrupoC2))
+            .addGroup(jPanel36Layout.createSequentialGroup()
+                .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+                .addComponent(lblEquipoLocalGrupoC2)
+                .addGap(10, 10, 10)
+                .addComponent(jTextField27, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addGap(129, 129, 129)
+                .addComponent(jTextField28, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addGap(10, 10, 10)
+                .addComponent(lblEquipoVisitanteGrupoC2)
+                .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
         );
-        jPanel29Layout.setVerticalGroup(
-            jPanel29Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGroup(jPanel29Layout.createSequentialGroup()
+        jPanel36Layout.setVerticalGroup(
+            jPanel36Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(jPanel36Layout.createSequentialGroup()
                 .addGap(20, 20, 20)
-                .addGroup(jPanel29Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                    .addGroup(jPanel29Layout.createSequentialGroup()
-                        .addComponent(lblNombreEstadioGrupoC2)
-                        .addGap(18, 18, 18)
-                        .addComponent(lblEquipoVisitanteGrupoC2))
-                    .addGroup(jPanel29Layout.createSequentialGroup()
+                .addGroup(jPanel36Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                    .addComponent(lblNombreEstadioGrupoC2)
+                    .addGroup(jPanel36Layout.createSequentialGroup()
                         .addComponent(lblFechaPartidoGrupoC2)
-                        .addGap(18, 18, 18)
-                        .addComponent(lblEquipoLocalGrupoC2)))
-                .addGap(20, 20, 20))
+                        .addGap(20, 20, 20)
+                        .addGroup(jPanel36Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
+                            .addComponent(lblEquipoLocalGrupoC2)
+                            .addComponent(lblEquipoVisitanteGrupoC2)
+                            .addGroup(jPanel36Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
+                                .addComponent(jTextField27, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
+                                .addComponent(jTextField28, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)))))
+                .addContainerGap(18, Short.MAX_VALUE))
+        );
+
+        lblFechaPartidoGrupoC3.setText("FechaPartidoGrupoC");
+
+        lblNombreEstadioGrupoC3.setText("NombreEstadio");
+
+        lblEquipoLocalGrupoC3.setFont(new java.awt.Font("Segoe UI", 1, 14)); // NOI18N
+        lblEquipoLocalGrupoC3.setText("Equipo Local");
+
+        lblEquipoVisitanteGrupoC3.setFont(new java.awt.Font("Segoe UI", 1, 14)); // NOI18N
+        lblEquipoVisitanteGrupoC3.setText("Equipo Visitante");
+
+        javax.swing.GroupLayout jPanel37Layout = new javax.swing.GroupLayout(jPanel37);
+        jPanel37.setLayout(jPanel37Layout);
+        jPanel37Layout.setHorizontalGroup(
+            jPanel37Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(jPanel37Layout.createSequentialGroup()
+                .addComponent(lblFechaPartidoGrupoC3)
+                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+                .addComponent(lblNombreEstadioGrupoC3))
+            .addGroup(jPanel37Layout.createSequentialGroup()
+                .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+                .addComponent(lblEquipoLocalGrupoC3)
+                .addGap(10, 10, 10)
+                .addComponent(jTextField29, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addGap(129, 129, 129)
+                .addComponent(jTextField30, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addGap(10, 10, 10)
+                .addComponent(lblEquipoVisitanteGrupoC3)
+                .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
+        );
+        jPanel37Layout.setVerticalGroup(
+            jPanel37Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(jPanel37Layout.createSequentialGroup()
+                .addGap(20, 20, 20)
+                .addGroup(jPanel37Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
+                    .addComponent(lblFechaPartidoGrupoC3)
+                    .addComponent(lblNombreEstadioGrupoC3))
+                .addGap(18, 18, 18)
+                .addGroup(jPanel37Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
+                    .addComponent(lblEquipoLocalGrupoC3)
+                    .addComponent(lblEquipoVisitanteGrupoC3)
+                    .addGroup(jPanel37Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
+                        .addComponent(jTextField29, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
+                        .addComponent(jTextField30, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)))
+                .addGap(18, 18, 18))
+        );
+
+        lblFechaPartidoGrupoC1.setText("FechaPartidoGrupoC");
+
+        lblNombreEstadioGrupoC1.setText("NombreEstadio");
+
+        lblEquipoLocalGrupoC1.setFont(new java.awt.Font("Segoe UI", 1, 14)); // NOI18N
+        lblEquipoLocalGrupoC1.setText("Equipo Local");
+
+        lblEquipoVisitanteGrupoC1.setFont(new java.awt.Font("Segoe UI", 1, 14)); // NOI18N
+        lblEquipoVisitanteGrupoC1.setText("Equipo Visitante");
+
+        jTextField25.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jTextField25ActionPerformed(evt);
+            }
+        });
+
+        javax.swing.GroupLayout jPanel4Layout = new javax.swing.GroupLayout(jPanel4);
+        jPanel4.setLayout(jPanel4Layout);
+        jPanel4Layout.setHorizontalGroup(
+            jPanel4Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(jPanel4Layout.createSequentialGroup()
+                .addComponent(lblFechaPartidoGrupoC1)
+                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+                .addComponent(lblNombreEstadioGrupoC1))
+            .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, jPanel4Layout.createSequentialGroup()
+                .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+                .addComponent(lblEquipoLocalGrupoC1)
+                .addGap(10, 10, 10)
+                .addComponent(jTextField25, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addGap(129, 129, 129)
+                .addComponent(jTextField26, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addGap(10, 10, 10)
+                .addComponent(lblEquipoVisitanteGrupoC1)
+                .addGap(100, 100, 100))
+        );
+        jPanel4Layout.setVerticalGroup(
+            jPanel4Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(jPanel4Layout.createSequentialGroup()
+                .addGap(20, 20, 20)
+                .addGroup(jPanel4Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                    .addGroup(jPanel4Layout.createSequentialGroup()
+                        .addComponent(lblNombreEstadioGrupoC1)
+                        .addGap(20, 20, 20)
+                        .addGroup(jPanel4Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
+                            .addComponent(lblEquipoVisitanteGrupoC1)
+                            .addComponent(lblEquipoLocalGrupoC1)
+                            .addGroup(jPanel4Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
+                                .addComponent(jTextField25, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
+                                .addComponent(jTextField26, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE))))
+                    .addComponent(lblFechaPartidoGrupoC1))
+                .addGap(18, 18, 18))
         );
 
         javax.swing.GroupLayout panelGrupoCLayout = new javax.swing.GroupLayout(panelGrupoC);
@@ -413,38 +502,33 @@ public class Ventana extends javax.swing.JFrame {
         panelGrupoCLayout.setHorizontalGroup(
             panelGrupoCLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(panelGrupoCLayout.createSequentialGroup()
-                .addGap(146, 146, 146)
+                .addContainerGap(40, Short.MAX_VALUE)
                 .addGroup(panelGrupoCLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING, false)
-                    .addComponent(jPanel5, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
-                    .addComponent(jPanel29, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
-                    .addComponent(jPanel18, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE))
-                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, 220, Short.MAX_VALUE)
-                .addGroup(panelGrupoCLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING, false)
-                    .addComponent(jPanel27, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
-                    .addComponent(jPanel28, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
-                    .addComponent(jPanel26, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE))
-                .addGap(145, 145, 145))
+                    .addComponent(jPanel34, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+                    .addGroup(panelGrupoCLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING, false)
+                        .addComponent(jPanel23, javax.swing.GroupLayout.Alignment.TRAILING, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+                        .addComponent(jPanel4, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+                        .addComponent(jPanel36, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+                        .addComponent(jPanel37, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+                        .addComponent(jPanel35, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)))
+                .addContainerGap(45, Short.MAX_VALUE))
         );
         panelGrupoCLayout.setVerticalGroup(
             panelGrupoCLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(panelGrupoCLayout.createSequentialGroup()
-                .addGap(32, 32, 32)
-                .addGroup(panelGrupoCLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.TRAILING)
-                    .addGroup(panelGrupoCLayout.createSequentialGroup()
-                        .addGroup(panelGrupoCLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.TRAILING)
-                            .addGroup(panelGrupoCLayout.createSequentialGroup()
-                                .addComponent(jPanel27, javax.swing.GroupLayout.PREFERRED_SIZE, 90, javax.swing.GroupLayout.PREFERRED_SIZE)
-                                .addGap(114, 114, 114))
-                            .addComponent(jPanel28, javax.swing.GroupLayout.PREFERRED_SIZE, 90, javax.swing.GroupLayout.PREFERRED_SIZE))
-                        .addGap(18, 18, 18)
-                        .addComponent(jPanel26, javax.swing.GroupLayout.PREFERRED_SIZE, 90, javax.swing.GroupLayout.PREFERRED_SIZE))
-                    .addGroup(panelGrupoCLayout.createSequentialGroup()
-                        .addComponent(jPanel5, javax.swing.GroupLayout.PREFERRED_SIZE, 90, javax.swing.GroupLayout.PREFERRED_SIZE)
-                        .addGap(24, 24, 24)
-                        .addComponent(jPanel29, javax.swing.GroupLayout.PREFERRED_SIZE, 90, javax.swing.GroupLayout.PREFERRED_SIZE)
-                        .addGap(18, 18, 18)
-                        .addComponent(jPanel18, javax.swing.GroupLayout.PREFERRED_SIZE, 90, javax.swing.GroupLayout.PREFERRED_SIZE)))
-                .addGap(72, 72, 72))
+                .addGap(50, 50, 50)
+                .addComponent(jPanel4, javax.swing.GroupLayout.PREFERRED_SIZE, 90, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addGap(10, 10, 10)
+                .addComponent(jPanel36, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addGap(10, 10, 10)
+                .addComponent(jPanel37, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addGap(0, 0, 0)
+                .addComponent(jPanel35, javax.swing.GroupLayout.PREFERRED_SIZE, 90, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addGap(10, 10, 10)
+                .addComponent(jPanel23, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addGap(10, 10, 10)
+                .addComponent(jPanel34, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
         );
 
         tabbedPane.addTab("C", panelGrupoC);
@@ -453,7 +537,7 @@ public class Ventana extends javax.swing.JFrame {
         panelGrupoD.setLayout(panelGrupoDLayout);
         panelGrupoDLayout.setHorizontalGroup(
             panelGrupoDLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 1241, Short.MAX_VALUE)
+            .addGap(0, 760, Short.MAX_VALUE)
         );
         panelGrupoDLayout.setVerticalGroup(
             panelGrupoDLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
@@ -466,7 +550,7 @@ public class Ventana extends javax.swing.JFrame {
         panelGrupoE.setLayout(panelGrupoELayout);
         panelGrupoELayout.setHorizontalGroup(
             panelGrupoELayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 1241, Short.MAX_VALUE)
+            .addGap(0, 760, Short.MAX_VALUE)
         );
         panelGrupoELayout.setVerticalGroup(
             panelGrupoELayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
@@ -479,7 +563,7 @@ public class Ventana extends javax.swing.JFrame {
         panelGrupoF.setLayout(panelGrupoFLayout);
         panelGrupoFLayout.setHorizontalGroup(
             panelGrupoFLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 1241, Short.MAX_VALUE)
+            .addGap(0, 760, Short.MAX_VALUE)
         );
         panelGrupoFLayout.setVerticalGroup(
             panelGrupoFLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
@@ -492,7 +576,7 @@ public class Ventana extends javax.swing.JFrame {
         panelGrupoG.setLayout(panelGrupoGLayout);
         panelGrupoGLayout.setHorizontalGroup(
             panelGrupoGLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 1241, Short.MAX_VALUE)
+            .addGap(0, 760, Short.MAX_VALUE)
         );
         panelGrupoGLayout.setVerticalGroup(
             panelGrupoGLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
@@ -505,7 +589,7 @@ public class Ventana extends javax.swing.JFrame {
         panelGrupoH.setLayout(panelGrupoHLayout);
         panelGrupoHLayout.setHorizontalGroup(
             panelGrupoHLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 1241, Short.MAX_VALUE)
+            .addGap(0, 760, Short.MAX_VALUE)
         );
         panelGrupoHLayout.setVerticalGroup(
             panelGrupoHLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
@@ -518,7 +602,7 @@ public class Ventana extends javax.swing.JFrame {
         panelOctavos.setLayout(panelOctavosLayout);
         panelOctavosLayout.setHorizontalGroup(
             panelOctavosLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 1241, Short.MAX_VALUE)
+            .addGap(0, 760, Short.MAX_VALUE)
         );
         panelOctavosLayout.setVerticalGroup(
             panelOctavosLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
@@ -531,7 +615,7 @@ public class Ventana extends javax.swing.JFrame {
         panelCuartos.setLayout(panelCuartosLayout);
         panelCuartosLayout.setHorizontalGroup(
             panelCuartosLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 1241, Short.MAX_VALUE)
+            .addGap(0, 760, Short.MAX_VALUE)
         );
         panelCuartosLayout.setVerticalGroup(
             panelCuartosLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
@@ -544,7 +628,7 @@ public class Ventana extends javax.swing.JFrame {
         panelSemifinales.setLayout(panelSemifinalesLayout);
         panelSemifinalesLayout.setHorizontalGroup(
             panelSemifinalesLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 1241, Short.MAX_VALUE)
+            .addGap(0, 760, Short.MAX_VALUE)
         );
         panelSemifinalesLayout.setVerticalGroup(
             panelSemifinalesLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
@@ -557,7 +641,7 @@ public class Ventana extends javax.swing.JFrame {
         panelTercerPuesto.setLayout(panelTercerPuestoLayout);
         panelTercerPuestoLayout.setHorizontalGroup(
             panelTercerPuestoLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 1241, Short.MAX_VALUE)
+            .addGap(0, 760, Short.MAX_VALUE)
         );
         panelTercerPuestoLayout.setVerticalGroup(
             panelTercerPuestoLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
@@ -570,7 +654,7 @@ public class Ventana extends javax.swing.JFrame {
         panelFinal.setLayout(panelFinalLayout);
         panelFinalLayout.setHorizontalGroup(
             panelFinalLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 1241, Short.MAX_VALUE)
+            .addGap(0, 760, Short.MAX_VALUE)
         );
         panelFinalLayout.setVerticalGroup(
             panelFinalLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
@@ -594,13 +678,19 @@ public class Ventana extends javax.swing.JFrame {
         jPanel2Layout.setHorizontalGroup(
             jPanel2Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(jPanel2Layout.createSequentialGroup()
-                .addGroup(jPanel2Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                    .addComponent(lblEquipoLocalGrupoA1)
-                    .addComponent(lblFechaPartidoGrupoA1))
+                .addComponent(lblFechaPartidoGrupoA1)
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
-                .addGroup(jPanel2Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                    .addComponent(lblNombreEstadioGrupoA1, javax.swing.GroupLayout.Alignment.TRAILING)
-                    .addComponent(lblEquipoVisitanteGrupoA1, javax.swing.GroupLayout.Alignment.TRAILING)))
+                .addComponent(lblNombreEstadioGrupoA1))
+            .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, jPanel2Layout.createSequentialGroup()
+                .addGap(100, 100, 100)
+                .addComponent(lblEquipoLocalGrupoA1)
+                .addGap(10, 10, 10)
+                .addComponent(jTextField1, javax.swing.GroupLayout.PREFERRED_SIZE, 80, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addGap(97, 97, 97)
+                .addComponent(jTextField2, javax.swing.GroupLayout.PREFERRED_SIZE, 80, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addGap(10, 10, 10)
+                .addComponent(lblEquipoVisitanteGrupoA1)
+                .addGap(100, 100, 100))
         );
         jPanel2Layout.setVerticalGroup(
             jPanel2Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
@@ -609,13 +699,14 @@ public class Ventana extends javax.swing.JFrame {
                 .addGroup(jPanel2Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
                     .addGroup(jPanel2Layout.createSequentialGroup()
                         .addComponent(lblNombreEstadioGrupoA1)
-                        .addGap(18, 18, 18)
-                        .addComponent(lblEquipoVisitanteGrupoA1))
-                    .addGroup(jPanel2Layout.createSequentialGroup()
-                        .addComponent(lblFechaPartidoGrupoA1)
-                        .addGap(18, 18, 18)
-                        .addComponent(lblEquipoLocalGrupoA1)))
-                .addGap(20, 20, 20))
+                        .addGap(20, 20, 20)
+                        .addGroup(jPanel2Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
+                            .addComponent(lblEquipoVisitanteGrupoA1)
+                            .addComponent(lblEquipoLocalGrupoA1)
+                            .addComponent(jTextField1, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
+                            .addComponent(jTextField2, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)))
+                    .addComponent(lblFechaPartidoGrupoA1))
+                .addGap(18, 18, 18))
         );
 
         lblFechaPartidoGrupoA2.setText("FechaPartidoGrupoA");
@@ -628,33 +719,55 @@ public class Ventana extends javax.swing.JFrame {
         lblEquipoVisitanteGrupoA2.setFont(new java.awt.Font("Segoe UI", 1, 14)); // NOI18N
         lblEquipoVisitanteGrupoA2.setText("Equipo Visitante");
 
+        jTextField4.setToolTipText("");
+        jTextField4.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jTextField4ActionPerformed(evt);
+            }
+        });
+
+        jTextField3.setToolTipText("");
+        jTextField3.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jTextField3ActionPerformed(evt);
+            }
+        });
+
         javax.swing.GroupLayout jPanel14Layout = new javax.swing.GroupLayout(jPanel14);
         jPanel14.setLayout(jPanel14Layout);
         jPanel14Layout.setHorizontalGroup(
             jPanel14Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(jPanel14Layout.createSequentialGroup()
-                .addGroup(jPanel14Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                    .addComponent(lblEquipoLocalGrupoA2)
-                    .addComponent(lblFechaPartidoGrupoA2))
+                .addComponent(lblFechaPartidoGrupoA2)
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
-                .addGroup(jPanel14Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                    .addComponent(lblNombreEstadioGrupoA2, javax.swing.GroupLayout.Alignment.TRAILING)
-                    .addComponent(lblEquipoVisitanteGrupoA2, javax.swing.GroupLayout.Alignment.TRAILING)))
+                .addComponent(lblNombreEstadioGrupoA2))
+            .addGroup(jPanel14Layout.createSequentialGroup()
+                .addGap(100, 100, 100)
+                .addComponent(lblEquipoLocalGrupoA2)
+                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+                .addComponent(jTextField3, javax.swing.GroupLayout.PREFERRED_SIZE, 80, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addGap(97, 97, 97)
+                .addComponent(jTextField4, javax.swing.GroupLayout.PREFERRED_SIZE, 80, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addGap(10, 10, 10)
+                .addComponent(lblEquipoVisitanteGrupoA2)
+                .addGap(100, 100, 100))
         );
         jPanel14Layout.setVerticalGroup(
             jPanel14Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(jPanel14Layout.createSequentialGroup()
                 .addGap(20, 20, 20)
                 .addGroup(jPanel14Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                    .addGroup(jPanel14Layout.createSequentialGroup()
-                        .addComponent(lblNombreEstadioGrupoA2)
-                        .addGap(18, 18, 18)
-                        .addComponent(lblEquipoVisitanteGrupoA2))
+                    .addComponent(lblNombreEstadioGrupoA2)
                     .addGroup(jPanel14Layout.createSequentialGroup()
                         .addComponent(lblFechaPartidoGrupoA2)
-                        .addGap(18, 18, 18)
-                        .addComponent(lblEquipoLocalGrupoA2)))
-                .addGap(20, 20, 20))
+                        .addGap(20, 20, 20)
+                        .addGroup(jPanel14Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
+                            .addComponent(lblEquipoLocalGrupoA2)
+                            .addComponent(lblEquipoVisitanteGrupoA2)
+                            .addGroup(jPanel14Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
+                                .addComponent(jTextField3, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
+                                .addComponent(jTextField4, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)))))
+                .addContainerGap(18, Short.MAX_VALUE))
         );
 
         lblFechaPartidoGrupoA3.setText("FechaPartidoGrupoA");
@@ -667,33 +780,53 @@ public class Ventana extends javax.swing.JFrame {
         lblEquipoVisitanteGrupoA3.setFont(new java.awt.Font("Segoe UI", 1, 14)); // NOI18N
         lblEquipoVisitanteGrupoA3.setText("Equipo Visitante");
 
+        jTextField6.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jTextField6ActionPerformed(evt);
+            }
+        });
+
+        jTextField5.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jTextField5ActionPerformed(evt);
+            }
+        });
+
         javax.swing.GroupLayout jPanel15Layout = new javax.swing.GroupLayout(jPanel15);
         jPanel15.setLayout(jPanel15Layout);
         jPanel15Layout.setHorizontalGroup(
             jPanel15Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(jPanel15Layout.createSequentialGroup()
-                .addGroup(jPanel15Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                    .addComponent(lblEquipoLocalGrupoA3)
-                    .addComponent(lblFechaPartidoGrupoA3))
-                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, 142, Short.MAX_VALUE)
-                .addGroup(jPanel15Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                    .addComponent(lblNombreEstadioGrupoA3, javax.swing.GroupLayout.Alignment.TRAILING)
-                    .addComponent(lblEquipoVisitanteGrupoA3, javax.swing.GroupLayout.Alignment.TRAILING)))
+                .addComponent(lblFechaPartidoGrupoA3)
+                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+                .addComponent(lblNombreEstadioGrupoA3))
+            .addGroup(jPanel15Layout.createSequentialGroup()
+                .addGap(100, 100, 100)
+                .addComponent(lblEquipoLocalGrupoA3)
+                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+                .addComponent(jTextField5, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addGap(129, 129, 129)
+                .addComponent(jTextField6, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addGap(10, 10, 10)
+                .addComponent(lblEquipoVisitanteGrupoA3)
+                .addGap(100, 100, 100))
         );
         jPanel15Layout.setVerticalGroup(
             jPanel15Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(jPanel15Layout.createSequentialGroup()
                 .addGap(20, 20, 20)
                 .addGroup(jPanel15Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                    .addGroup(jPanel15Layout.createSequentialGroup()
-                        .addComponent(lblNombreEstadioGrupoA3)
-                        .addGap(18, 18, 18)
-                        .addComponent(lblEquipoVisitanteGrupoA3))
+                    .addComponent(lblNombreEstadioGrupoA3)
                     .addGroup(jPanel15Layout.createSequentialGroup()
                         .addComponent(lblFechaPartidoGrupoA3)
                         .addGap(18, 18, 18)
-                        .addComponent(lblEquipoLocalGrupoA3)))
-                .addGap(20, 20, 20))
+                        .addGroup(jPanel15Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
+                            .addComponent(lblEquipoLocalGrupoA3)
+                            .addComponent(lblEquipoVisitanteGrupoA3)
+                            .addGroup(jPanel15Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
+                                .addComponent(jTextField5, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
+                                .addComponent(jTextField6, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)))))
+                .addGap(18, 18, 18))
         );
 
         lblFechaPartidoGrupoA4.setText("FechaPartidoGrupoA");
@@ -706,33 +839,53 @@ public class Ventana extends javax.swing.JFrame {
         lblEquipoVisitanteGrupoA4.setFont(new java.awt.Font("Segoe UI", 1, 14)); // NOI18N
         lblEquipoVisitanteGrupoA4.setText("Equipo Visitante");
 
+        jTextField7.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jTextField7ActionPerformed(evt);
+            }
+        });
+
+        jTextField8.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jTextField8ActionPerformed(evt);
+            }
+        });
+
         javax.swing.GroupLayout jPanel19Layout = new javax.swing.GroupLayout(jPanel19);
         jPanel19.setLayout(jPanel19Layout);
         jPanel19Layout.setHorizontalGroup(
             jPanel19Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(jPanel19Layout.createSequentialGroup()
-                .addGroup(jPanel19Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                    .addComponent(lblEquipoLocalGrupoA4)
-                    .addComponent(lblFechaPartidoGrupoA4))
+                .addComponent(lblFechaPartidoGrupoA4)
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
-                .addGroup(jPanel19Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                    .addComponent(lblNombreEstadioGrupoA4, javax.swing.GroupLayout.Alignment.TRAILING)
-                    .addComponent(lblEquipoVisitanteGrupoA4, javax.swing.GroupLayout.Alignment.TRAILING)))
+                .addComponent(lblNombreEstadioGrupoA4))
+            .addGroup(jPanel19Layout.createSequentialGroup()
+                .addGap(100, 100, 100)
+                .addComponent(lblEquipoLocalGrupoA4)
+                .addGap(10, 10, 10)
+                .addComponent(jTextField7, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addGap(129, 129, 129)
+                .addComponent(jTextField8, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addGap(10, 10, 10)
+                .addComponent(lblEquipoVisitanteGrupoA4)
+                .addGap(100, 100, 100))
         );
         jPanel19Layout.setVerticalGroup(
             jPanel19Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(jPanel19Layout.createSequentialGroup()
                 .addGap(20, 20, 20)
                 .addGroup(jPanel19Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                    .addGroup(jPanel19Layout.createSequentialGroup()
-                        .addComponent(lblNombreEstadioGrupoA4)
-                        .addGap(18, 18, 18)
-                        .addComponent(lblEquipoVisitanteGrupoA4))
+                    .addComponent(lblNombreEstadioGrupoA4)
                     .addGroup(jPanel19Layout.createSequentialGroup()
                         .addComponent(lblFechaPartidoGrupoA4)
                         .addGap(18, 18, 18)
-                        .addComponent(lblEquipoLocalGrupoA4)))
-                .addGap(20, 20, 20))
+                        .addGroup(jPanel19Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
+                            .addComponent(lblEquipoLocalGrupoA4)
+                            .addComponent(lblEquipoVisitanteGrupoA4)
+                            .addGroup(jPanel19Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
+                                .addComponent(jTextField7, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
+                                .addComponent(jTextField8, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)))))
+                .addGap(18, 18, 18))
         );
 
         lblFechaPartidoGrupoA5.setText("FechaPartidoGrupoA");
@@ -745,33 +898,53 @@ public class Ventana extends javax.swing.JFrame {
         lblEquipoVisitanteGrupoA5.setFont(new java.awt.Font("Segoe UI", 1, 14)); // NOI18N
         lblEquipoVisitanteGrupoA5.setText("Equipo Visitante");
 
+        jTextField10.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jTextField10ActionPerformed(evt);
+            }
+        });
+
+        jTextField9.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jTextField9ActionPerformed(evt);
+            }
+        });
+
         javax.swing.GroupLayout jPanel20Layout = new javax.swing.GroupLayout(jPanel20);
         jPanel20.setLayout(jPanel20Layout);
         jPanel20Layout.setHorizontalGroup(
             jPanel20Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(jPanel20Layout.createSequentialGroup()
-                .addGroup(jPanel20Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                    .addComponent(lblEquipoLocalGrupoA5)
-                    .addComponent(lblFechaPartidoGrupoA5))
+                .addComponent(lblFechaPartidoGrupoA5)
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
-                .addGroup(jPanel20Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                    .addComponent(lblNombreEstadioGrupoA5, javax.swing.GroupLayout.Alignment.TRAILING)
-                    .addComponent(lblEquipoVisitanteGrupoA5, javax.swing.GroupLayout.Alignment.TRAILING)))
+                .addComponent(lblNombreEstadioGrupoA5))
+            .addGroup(jPanel20Layout.createSequentialGroup()
+                .addGap(100, 100, 100)
+                .addComponent(lblEquipoLocalGrupoA5)
+                .addGap(10, 10, 10)
+                .addComponent(jTextField10, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addGap(129, 129, 129)
+                .addComponent(jTextField9, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addGap(10, 10, 10)
+                .addComponent(lblEquipoVisitanteGrupoA5)
+                .addGap(100, 100, 100))
         );
         jPanel20Layout.setVerticalGroup(
             jPanel20Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(jPanel20Layout.createSequentialGroup()
                 .addGap(20, 20, 20)
                 .addGroup(jPanel20Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                    .addGroup(jPanel20Layout.createSequentialGroup()
-                        .addComponent(lblNombreEstadioGrupoA5)
-                        .addGap(18, 18, 18)
-                        .addComponent(lblEquipoVisitanteGrupoA5))
+                    .addComponent(lblNombreEstadioGrupoA5)
                     .addGroup(jPanel20Layout.createSequentialGroup()
                         .addComponent(lblFechaPartidoGrupoA5)
                         .addGap(18, 18, 18)
-                        .addComponent(lblEquipoLocalGrupoA5)))
-                .addGap(20, 20, 20))
+                        .addGroup(jPanel20Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
+                            .addComponent(lblEquipoLocalGrupoA5)
+                            .addComponent(lblEquipoVisitanteGrupoA5)
+                            .addGroup(jPanel20Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
+                                .addComponent(jTextField10, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
+                                .addComponent(jTextField9, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)))))
+                .addGap(18, 18, 18))
         );
 
         lblFechaPartidoGrupoA6.setText("FechaPartidoGrupoA");
@@ -784,33 +957,87 @@ public class Ventana extends javax.swing.JFrame {
         lblEquipoVisitanteGrupoA6.setFont(new java.awt.Font("Segoe UI", 1, 14)); // NOI18N
         lblEquipoVisitanteGrupoA6.setText("Equipo Visitante");
 
+        jTextField11.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jTextField11ActionPerformed(evt);
+            }
+        });
+
+        jTextField12.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jTextField12ActionPerformed(evt);
+            }
+        });
+
         javax.swing.GroupLayout jPanel21Layout = new javax.swing.GroupLayout(jPanel21);
         jPanel21.setLayout(jPanel21Layout);
         jPanel21Layout.setHorizontalGroup(
             jPanel21Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(jPanel21Layout.createSequentialGroup()
-                .addGroup(jPanel21Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                    .addComponent(lblEquipoLocalGrupoA6)
-                    .addComponent(lblFechaPartidoGrupoA6))
-                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, 154, Short.MAX_VALUE)
-                .addGroup(jPanel21Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                    .addComponent(lblNombreEstadioGrupoA6, javax.swing.GroupLayout.Alignment.TRAILING)
-                    .addComponent(lblEquipoVisitanteGrupoA6, javax.swing.GroupLayout.Alignment.TRAILING)))
+                .addComponent(lblFechaPartidoGrupoA6)
+                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+                .addComponent(lblNombreEstadioGrupoA6))
+            .addGroup(jPanel21Layout.createSequentialGroup()
+                .addGap(100, 100, 100)
+                .addComponent(lblEquipoLocalGrupoA6)
+                .addGap(10, 10, 10)
+                .addComponent(jTextField11, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addGap(129, 129, 129)
+                .addComponent(jTextField12, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addGap(10, 10, 10)
+                .addComponent(lblEquipoVisitanteGrupoA6)
+                .addGap(100, 100, 100))
         );
         jPanel21Layout.setVerticalGroup(
             jPanel21Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(jPanel21Layout.createSequentialGroup()
                 .addGap(20, 20, 20)
                 .addGroup(jPanel21Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                    .addGroup(jPanel21Layout.createSequentialGroup()
-                        .addComponent(lblNombreEstadioGrupoA6)
-                        .addGap(18, 18, 18)
-                        .addComponent(lblEquipoVisitanteGrupoA6))
+                    .addComponent(lblNombreEstadioGrupoA6)
                     .addGroup(jPanel21Layout.createSequentialGroup()
                         .addComponent(lblFechaPartidoGrupoA6)
                         .addGap(18, 18, 18)
-                        .addComponent(lblEquipoLocalGrupoA6)))
-                .addGap(20, 20, 20))
+                        .addGroup(jPanel21Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
+                            .addComponent(lblEquipoLocalGrupoA6)
+                            .addComponent(lblEquipoVisitanteGrupoA6)
+                            .addGroup(jPanel21Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
+                                .addComponent(jTextField11, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
+                                .addComponent(jTextField12, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)))))
+                .addGap(18, 18, 18))
+        );
+
+        javax.swing.GroupLayout jPanel1Layout = new javax.swing.GroupLayout(jPanel1);
+        jPanel1.setLayout(jPanel1Layout);
+        jPanel1Layout.setHorizontalGroup(
+            jPanel1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(jPanel1Layout.createSequentialGroup()
+                .addContainerGap(40, Short.MAX_VALUE)
+                .addGroup(jPanel1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING, false)
+                    .addComponent(jPanel21, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+                    .addGroup(jPanel1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING, false)
+                        .addComponent(jPanel20, javax.swing.GroupLayout.Alignment.TRAILING, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+                        .addComponent(jPanel2, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+                        .addComponent(jPanel14, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+                        .addComponent(jPanel15, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+                        .addComponent(jPanel19, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)))
+                .addContainerGap(28, Short.MAX_VALUE))
+        );
+        jPanel1Layout.setVerticalGroup(
+            jPanel1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(jPanel1Layout.createSequentialGroup()
+                .addGap(50, 50, 50)
+                .addComponent(jPanel2, javax.swing.GroupLayout.PREFERRED_SIZE, 90, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addGap(10, 10, 10)
+                .addComponent(jPanel14, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addGap(10, 10, 10)
+                .addComponent(jPanel15, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addGap(0, 0, 0)
+                .addComponent(jPanel19, javax.swing.GroupLayout.PREFERRED_SIZE, 90, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addGap(10, 10, 10)
+                .addComponent(jPanel20, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addGap(10, 10, 10)
+                .addComponent(jPanel21, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
         );
 
         javax.swing.GroupLayout panelGrupoALayout = new javax.swing.GroupLayout(panelGrupoA);
@@ -818,119 +1045,15 @@ public class Ventana extends javax.swing.JFrame {
         panelGrupoALayout.setHorizontalGroup(
             panelGrupoALayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(panelGrupoALayout.createSequentialGroup()
-                .addGap(140, 140, 140)
-                .addGroup(panelGrupoALayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING, false)
-                    .addComponent(jPanel2, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
-                    .addComponent(jPanel14, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
-                    .addComponent(jPanel15, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE))
-                .addGap(240, 240, 240)
-                .addGroup(panelGrupoALayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING, false)
-                    .addComponent(jPanel19, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
-                    .addComponent(jPanel20, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
-                    .addComponent(jPanel21, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE))
-                .addGap(140, 140, 140))
+                .addComponent(jPanel1, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addGap(0, 23, Short.MAX_VALUE))
         );
         panelGrupoALayout.setVerticalGroup(
             panelGrupoALayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGroup(panelGrupoALayout.createSequentialGroup()
-                .addGap(71, 71, 71)
-                .addGroup(panelGrupoALayout.createParallelGroup(javax.swing.GroupLayout.Alignment.TRAILING)
-                    .addGroup(panelGrupoALayout.createSequentialGroup()
-                        .addGroup(panelGrupoALayout.createParallelGroup(javax.swing.GroupLayout.Alignment.TRAILING)
-                            .addGroup(panelGrupoALayout.createSequentialGroup()
-                                .addComponent(jPanel19, javax.swing.GroupLayout.PREFERRED_SIZE, 90, javax.swing.GroupLayout.PREFERRED_SIZE)
-                                .addGap(114, 114, 114))
-                            .addComponent(jPanel20, javax.swing.GroupLayout.PREFERRED_SIZE, 90, javax.swing.GroupLayout.PREFERRED_SIZE))
-                        .addGap(18, 18, 18)
-                        .addComponent(jPanel21, javax.swing.GroupLayout.PREFERRED_SIZE, 90, javax.swing.GroupLayout.PREFERRED_SIZE))
-                    .addGroup(panelGrupoALayout.createSequentialGroup()
-                        .addComponent(jPanel2, javax.swing.GroupLayout.PREFERRED_SIZE, 90, javax.swing.GroupLayout.PREFERRED_SIZE)
-                        .addGap(24, 24, 24)
-                        .addComponent(jPanel14, javax.swing.GroupLayout.PREFERRED_SIZE, 90, javax.swing.GroupLayout.PREFERRED_SIZE)
-                        .addGap(18, 18, 18)
-                        .addComponent(jPanel15, javax.swing.GroupLayout.PREFERRED_SIZE, 90, javax.swing.GroupLayout.PREFERRED_SIZE)))
-                .addGap(40, 40, 40))
+            .addComponent(jPanel1, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
         );
 
         tabbedPane.addTab("A", panelGrupoA);
-
-        lblFechaPartidoGrupoB6.setText("FechaPartidoGrupoB");
-
-        lblNombreEstadioGrupoB6.setText("NombreEstadio");
-
-        lblEquipoLocalGrupoB6.setFont(new java.awt.Font("Segoe UI", 1, 14)); // NOI18N
-        lblEquipoLocalGrupoB6.setText("Equipo Local");
-
-        lblEquipoVisitanteGrupoB6.setFont(new java.awt.Font("Segoe UI", 1, 14)); // NOI18N
-        lblEquipoVisitanteGrupoB6.setText("Equipo Visitante");
-
-        javax.swing.GroupLayout jPanel23Layout = new javax.swing.GroupLayout(jPanel23);
-        jPanel23.setLayout(jPanel23Layout);
-        jPanel23Layout.setHorizontalGroup(
-            jPanel23Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGroup(jPanel23Layout.createSequentialGroup()
-                .addGroup(jPanel23Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                    .addComponent(lblEquipoLocalGrupoB6)
-                    .addComponent(lblFechaPartidoGrupoB6))
-                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, 154, Short.MAX_VALUE)
-                .addGroup(jPanel23Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                    .addComponent(lblNombreEstadioGrupoB6, javax.swing.GroupLayout.Alignment.TRAILING)
-                    .addComponent(lblEquipoVisitanteGrupoB6, javax.swing.GroupLayout.Alignment.TRAILING)))
-        );
-        jPanel23Layout.setVerticalGroup(
-            jPanel23Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGroup(jPanel23Layout.createSequentialGroup()
-                .addGap(20, 20, 20)
-                .addGroup(jPanel23Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                    .addGroup(jPanel23Layout.createSequentialGroup()
-                        .addComponent(lblNombreEstadioGrupoB6)
-                        .addGap(18, 18, 18)
-                        .addComponent(lblEquipoVisitanteGrupoB6))
-                    .addGroup(jPanel23Layout.createSequentialGroup()
-                        .addComponent(lblFechaPartidoGrupoB6)
-                        .addGap(18, 18, 18)
-                        .addComponent(lblEquipoLocalGrupoB6)))
-                .addGap(20, 20, 20))
-        );
-
-        lblFechaPartidoGrupoB4.setText("FechaPartidoGrupoB");
-
-        lblNombreEstadioGrupoB4.setText("NombreEstadio");
-
-        lblEquipoLocalGrupoB4.setFont(new java.awt.Font("Segoe UI", 1, 14)); // NOI18N
-        lblEquipoLocalGrupoB4.setText("Equipo Local");
-
-        lblEquipoVisitanteGrupoB4.setFont(new java.awt.Font("Segoe UI", 1, 14)); // NOI18N
-        lblEquipoVisitanteGrupoB4.setText("Equipo Visitante");
-
-        javax.swing.GroupLayout jPanel24Layout = new javax.swing.GroupLayout(jPanel24);
-        jPanel24.setLayout(jPanel24Layout);
-        jPanel24Layout.setHorizontalGroup(
-            jPanel24Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGroup(jPanel24Layout.createSequentialGroup()
-                .addGroup(jPanel24Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                    .addComponent(lblEquipoLocalGrupoB4)
-                    .addComponent(lblFechaPartidoGrupoB4))
-                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
-                .addGroup(jPanel24Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                    .addComponent(lblNombreEstadioGrupoB4, javax.swing.GroupLayout.Alignment.TRAILING)
-                    .addComponent(lblEquipoVisitanteGrupoB4, javax.swing.GroupLayout.Alignment.TRAILING)))
-        );
-        jPanel24Layout.setVerticalGroup(
-            jPanel24Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGroup(jPanel24Layout.createSequentialGroup()
-                .addGap(20, 20, 20)
-                .addGroup(jPanel24Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                    .addGroup(jPanel24Layout.createSequentialGroup()
-                        .addComponent(lblNombreEstadioGrupoB4)
-                        .addGap(18, 18, 18)
-                        .addComponent(lblEquipoVisitanteGrupoB4))
-                    .addGroup(jPanel24Layout.createSequentialGroup()
-                        .addComponent(lblFechaPartidoGrupoB4)
-                        .addGap(18, 18, 18)
-                        .addComponent(lblEquipoLocalGrupoB4)))
-                .addGap(20, 20, 20))
-        );
 
         lblFechaPartidoGrupoB5.setText("FechaPartidoGrupoB");
 
@@ -942,33 +1065,53 @@ public class Ventana extends javax.swing.JFrame {
         lblEquipoVisitanteGrupoB5.setFont(new java.awt.Font("Segoe UI", 1, 14)); // NOI18N
         lblEquipoVisitanteGrupoB5.setText("Equipo Visitante");
 
-        javax.swing.GroupLayout jPanel25Layout = new javax.swing.GroupLayout(jPanel25);
-        jPanel25.setLayout(jPanel25Layout);
-        jPanel25Layout.setHorizontalGroup(
-            jPanel25Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGroup(jPanel25Layout.createSequentialGroup()
-                .addGroup(jPanel25Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                    .addComponent(lblEquipoLocalGrupoB5)
-                    .addComponent(lblFechaPartidoGrupoB5))
+        jTextField22.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jTextField22ActionPerformed(evt);
+            }
+        });
+
+        jTextField21.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jTextField21ActionPerformed(evt);
+            }
+        });
+
+        javax.swing.GroupLayout jPanel22Layout = new javax.swing.GroupLayout(jPanel22);
+        jPanel22.setLayout(jPanel22Layout);
+        jPanel22Layout.setHorizontalGroup(
+            jPanel22Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(jPanel22Layout.createSequentialGroup()
+                .addComponent(lblFechaPartidoGrupoB5)
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
-                .addGroup(jPanel25Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                    .addComponent(lblNombreEstadioGrupoB5, javax.swing.GroupLayout.Alignment.TRAILING)
-                    .addComponent(lblEquipoVisitanteGrupoB5, javax.swing.GroupLayout.Alignment.TRAILING)))
+                .addComponent(lblNombreEstadioGrupoB5))
+            .addGroup(jPanel22Layout.createSequentialGroup()
+                .addGap(100, 100, 100)
+                .addComponent(lblEquipoLocalGrupoB5)
+                .addGap(10, 10, 10)
+                .addComponent(jTextField21, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addGap(129, 129, 129)
+                .addComponent(jTextField22, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addGap(10, 10, 10)
+                .addComponent(lblEquipoVisitanteGrupoB5)
+                .addGap(100, 100, 100))
         );
-        jPanel25Layout.setVerticalGroup(
-            jPanel25Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGroup(jPanel25Layout.createSequentialGroup()
+        jPanel22Layout.setVerticalGroup(
+            jPanel22Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(jPanel22Layout.createSequentialGroup()
                 .addGap(20, 20, 20)
-                .addGroup(jPanel25Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                    .addGroup(jPanel25Layout.createSequentialGroup()
-                        .addComponent(lblNombreEstadioGrupoB5)
-                        .addGap(18, 18, 18)
-                        .addComponent(lblEquipoVisitanteGrupoB5))
-                    .addGroup(jPanel25Layout.createSequentialGroup()
+                .addGroup(jPanel22Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                    .addComponent(lblNombreEstadioGrupoB5)
+                    .addGroup(jPanel22Layout.createSequentialGroup()
                         .addComponent(lblFechaPartidoGrupoB5)
                         .addGap(18, 18, 18)
-                        .addComponent(lblEquipoLocalGrupoB5)))
-                .addGap(20, 20, 20))
+                        .addGroup(jPanel22Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
+                            .addComponent(lblEquipoLocalGrupoB5)
+                            .addComponent(lblEquipoVisitanteGrupoB5)
+                            .addGroup(jPanel22Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
+                                .addComponent(jTextField21, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
+                                .addComponent(jTextField22, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)))))
+                .addGap(18, 18, 18))
         );
 
         lblFechaPartidoGrupoB3.setText("FechaPartidoGrupoB");
@@ -981,72 +1124,171 @@ public class Ventana extends javax.swing.JFrame {
         lblEquipoVisitanteGrupoB3.setFont(new java.awt.Font("Segoe UI", 1, 14)); // NOI18N
         lblEquipoVisitanteGrupoB3.setText("Equipo Visitante");
 
-        javax.swing.GroupLayout jPanel16Layout = new javax.swing.GroupLayout(jPanel16);
-        jPanel16.setLayout(jPanel16Layout);
-        jPanel16Layout.setHorizontalGroup(
-            jPanel16Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGroup(jPanel16Layout.createSequentialGroup()
-                .addGroup(jPanel16Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                    .addComponent(lblEquipoLocalGrupoB3)
-                    .addComponent(lblFechaPartidoGrupoB3))
-                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, 142, Short.MAX_VALUE)
-                .addGroup(jPanel16Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                    .addComponent(lblNombreEstadioGrupoB3, javax.swing.GroupLayout.Alignment.TRAILING)
-                    .addComponent(lblEquipoVisitanteGrupoB3, javax.swing.GroupLayout.Alignment.TRAILING)))
+        jTextField17.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jTextField17ActionPerformed(evt);
+            }
+        });
+
+        jTextField18.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jTextField18ActionPerformed(evt);
+            }
+        });
+
+        javax.swing.GroupLayout jPanel30Layout = new javax.swing.GroupLayout(jPanel30);
+        jPanel30.setLayout(jPanel30Layout);
+        jPanel30Layout.setHorizontalGroup(
+            jPanel30Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(jPanel30Layout.createSequentialGroup()
+                .addComponent(lblFechaPartidoGrupoB3)
+                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+                .addComponent(lblNombreEstadioGrupoB3))
+            .addGroup(jPanel30Layout.createSequentialGroup()
+                .addGap(100, 100, 100)
+                .addComponent(lblEquipoLocalGrupoB3)
+                .addGap(10, 10, 10)
+                .addComponent(jTextField17, javax.swing.GroupLayout.PREFERRED_SIZE, 80, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addGap(97, 97, 97)
+                .addComponent(jTextField18, javax.swing.GroupLayout.PREFERRED_SIZE, 80, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addGap(10, 10, 10)
+                .addComponent(lblEquipoVisitanteGrupoB3)
+                .addGap(100, 100, 100))
         );
-        jPanel16Layout.setVerticalGroup(
-            jPanel16Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGroup(jPanel16Layout.createSequentialGroup()
+        jPanel30Layout.setVerticalGroup(
+            jPanel30Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(jPanel30Layout.createSequentialGroup()
                 .addGap(20, 20, 20)
-                .addGroup(jPanel16Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                    .addGroup(jPanel16Layout.createSequentialGroup()
-                        .addComponent(lblNombreEstadioGrupoB3)
-                        .addGap(18, 18, 18)
-                        .addComponent(lblEquipoVisitanteGrupoB3))
-                    .addGroup(jPanel16Layout.createSequentialGroup()
+                .addGroup(jPanel30Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                    .addComponent(lblNombreEstadioGrupoB3)
+                    .addGroup(jPanel30Layout.createSequentialGroup()
                         .addComponent(lblFechaPartidoGrupoB3)
                         .addGap(18, 18, 18)
-                        .addComponent(lblEquipoLocalGrupoB3)))
-                .addGap(20, 20, 20))
+                        .addGroup(jPanel30Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
+                            .addComponent(lblEquipoLocalGrupoB3)
+                            .addComponent(lblEquipoVisitanteGrupoB3)
+                            .addGroup(jPanel30Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
+                                .addComponent(jTextField17, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
+                                .addComponent(jTextField18, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)))))
+                .addGap(18, 18, 18))
         );
 
-        lblFechaPartidoGrupoB1.setText("FechaPartidoGrupoB");
+        lblFechaPartidoGrupoB6.setText("FechaPartidoGrupoB");
 
-        lblNombreEstadioGrupoB1.setText("NombreEstadio");
+        lblNombreEstadioGrupoB6.setText("NombreEstadio");
 
-        lblEquipoLocalGrupoB1.setFont(new java.awt.Font("Segoe UI", 1, 14)); // NOI18N
-        lblEquipoLocalGrupoB1.setText("Equipo Local");
+        lblEquipoLocalGrupoB6.setFont(new java.awt.Font("Segoe UI", 1, 14)); // NOI18N
+        lblEquipoLocalGrupoB6.setText("Equipo Local");
 
-        lblEquipoVisitanteGrupoB1.setFont(new java.awt.Font("Segoe UI", 1, 14)); // NOI18N
-        lblEquipoVisitanteGrupoB1.setText("Equipo Visitante");
+        lblEquipoVisitanteGrupoB6.setFont(new java.awt.Font("Segoe UI", 1, 14)); // NOI18N
+        lblEquipoVisitanteGrupoB6.setText("Equipo Visitante");
 
-        javax.swing.GroupLayout jPanel4Layout = new javax.swing.GroupLayout(jPanel4);
-        jPanel4.setLayout(jPanel4Layout);
-        jPanel4Layout.setHorizontalGroup(
-            jPanel4Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGroup(jPanel4Layout.createSequentialGroup()
-                .addGroup(jPanel4Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                    .addComponent(lblEquipoLocalGrupoB1)
-                    .addComponent(lblFechaPartidoGrupoB1))
+        jTextField23.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jTextField23ActionPerformed(evt);
+            }
+        });
+
+        jTextField24.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jTextField24ActionPerformed(evt);
+            }
+        });
+
+        javax.swing.GroupLayout jPanel31Layout = new javax.swing.GroupLayout(jPanel31);
+        jPanel31.setLayout(jPanel31Layout);
+        jPanel31Layout.setHorizontalGroup(
+            jPanel31Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(jPanel31Layout.createSequentialGroup()
+                .addComponent(lblFechaPartidoGrupoB6)
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
-                .addGroup(jPanel4Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                    .addComponent(lblNombreEstadioGrupoB1, javax.swing.GroupLayout.Alignment.TRAILING)
-                    .addComponent(lblEquipoVisitanteGrupoB1, javax.swing.GroupLayout.Alignment.TRAILING)))
+                .addComponent(lblNombreEstadioGrupoB6))
+            .addGroup(jPanel31Layout.createSequentialGroup()
+                .addGap(100, 100, 100)
+                .addComponent(lblEquipoLocalGrupoB6)
+                .addGap(10, 10, 10)
+                .addComponent(jTextField23, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addGap(129, 129, 129)
+                .addComponent(jTextField24, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addGap(10, 10, 10)
+                .addComponent(lblEquipoVisitanteGrupoB6)
+                .addGap(100, 100, 100))
         );
-        jPanel4Layout.setVerticalGroup(
-            jPanel4Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGroup(jPanel4Layout.createSequentialGroup()
+        jPanel31Layout.setVerticalGroup(
+            jPanel31Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(jPanel31Layout.createSequentialGroup()
                 .addGap(20, 20, 20)
-                .addGroup(jPanel4Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                    .addGroup(jPanel4Layout.createSequentialGroup()
-                        .addComponent(lblNombreEstadioGrupoB1)
+                .addGroup(jPanel31Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                    .addComponent(lblNombreEstadioGrupoB6)
+                    .addGroup(jPanel31Layout.createSequentialGroup()
+                        .addComponent(lblFechaPartidoGrupoB6)
                         .addGap(18, 18, 18)
-                        .addComponent(lblEquipoVisitanteGrupoB1))
-                    .addGroup(jPanel4Layout.createSequentialGroup()
-                        .addComponent(lblFechaPartidoGrupoB1)
+                        .addGroup(jPanel31Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
+                            .addComponent(lblEquipoLocalGrupoB6)
+                            .addComponent(lblEquipoVisitanteGrupoB6)
+                            .addGroup(jPanel31Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
+                                .addComponent(jTextField23, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
+                                .addComponent(jTextField24, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)))))
+                .addGap(18, 18, 18))
+        );
+
+        lblFechaPartidoGrupoB4.setText("FechaPartidoGrupoB");
+
+        lblNombreEstadioGrupoB4.setText("NombreEstadio");
+
+        lblEquipoLocalGrupoB4.setFont(new java.awt.Font("Segoe UI", 1, 14)); // NOI18N
+        lblEquipoLocalGrupoB4.setText("Equipo Local");
+
+        lblEquipoVisitanteGrupoB4.setFont(new java.awt.Font("Segoe UI", 1, 14)); // NOI18N
+        lblEquipoVisitanteGrupoB4.setText("Equipo Visitante");
+
+        jTextField19.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jTextField19ActionPerformed(evt);
+            }
+        });
+
+        jTextField20.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jTextField20ActionPerformed(evt);
+            }
+        });
+
+        javax.swing.GroupLayout jPanel32Layout = new javax.swing.GroupLayout(jPanel32);
+        jPanel32.setLayout(jPanel32Layout);
+        jPanel32Layout.setHorizontalGroup(
+            jPanel32Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(jPanel32Layout.createSequentialGroup()
+                .addComponent(lblFechaPartidoGrupoB4)
+                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+                .addComponent(lblNombreEstadioGrupoB4))
+            .addGroup(jPanel32Layout.createSequentialGroup()
+                .addGap(100, 100, 100)
+                .addComponent(lblEquipoLocalGrupoB4)
+                .addGap(10, 10, 10)
+                .addComponent(jTextField19, javax.swing.GroupLayout.PREFERRED_SIZE, 80, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addGap(103, 103, 103)
+                .addComponent(jTextField20, javax.swing.GroupLayout.PREFERRED_SIZE, 80, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addGap(10, 10, 10)
+                .addComponent(lblEquipoVisitanteGrupoB4)
+                .addGap(100, 100, 100))
+        );
+        jPanel32Layout.setVerticalGroup(
+            jPanel32Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(jPanel32Layout.createSequentialGroup()
+                .addGap(20, 20, 20)
+                .addGroup(jPanel32Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                    .addComponent(lblNombreEstadioGrupoB4)
+                    .addGroup(jPanel32Layout.createSequentialGroup()
+                        .addComponent(lblFechaPartidoGrupoB4)
                         .addGap(18, 18, 18)
-                        .addComponent(lblEquipoLocalGrupoB1)))
-                .addGap(20, 20, 20))
+                        .addGroup(jPanel32Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
+                            .addComponent(lblEquipoLocalGrupoB4)
+                            .addComponent(lblEquipoVisitanteGrupoB4)
+                            .addGroup(jPanel32Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
+                                .addComponent(jTextField19, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
+                                .addComponent(jTextField20, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)))))
+                .addGap(18, 18, 18))
         );
 
         lblFechaPartidoGrupoB2.setText("FechaPartidoGrupoB");
@@ -1059,33 +1301,112 @@ public class Ventana extends javax.swing.JFrame {
         lblEquipoVisitanteGrupoB2.setFont(new java.awt.Font("Segoe UI", 1, 14)); // NOI18N
         lblEquipoVisitanteGrupoB2.setText("Equipo Visitante");
 
-        javax.swing.GroupLayout jPanel17Layout = new javax.swing.GroupLayout(jPanel17);
-        jPanel17.setLayout(jPanel17Layout);
-        jPanel17Layout.setHorizontalGroup(
-            jPanel17Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGroup(jPanel17Layout.createSequentialGroup()
-                .addGroup(jPanel17Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                    .addComponent(lblEquipoLocalGrupoB2)
-                    .addComponent(lblFechaPartidoGrupoB2))
+        jTextField15.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jTextField15ActionPerformed(evt);
+            }
+        });
+
+        jTextField16.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jTextField16ActionPerformed(evt);
+            }
+        });
+
+        javax.swing.GroupLayout jPanel33Layout = new javax.swing.GroupLayout(jPanel33);
+        jPanel33.setLayout(jPanel33Layout);
+        jPanel33Layout.setHorizontalGroup(
+            jPanel33Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(jPanel33Layout.createSequentialGroup()
+                .addComponent(lblFechaPartidoGrupoB2)
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
-                .addGroup(jPanel17Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                    .addComponent(lblNombreEstadioGrupoB2, javax.swing.GroupLayout.Alignment.TRAILING)
-                    .addComponent(lblEquipoVisitanteGrupoB2, javax.swing.GroupLayout.Alignment.TRAILING)))
+                .addComponent(lblNombreEstadioGrupoB2))
+            .addGroup(jPanel33Layout.createSequentialGroup()
+                .addGap(100, 100, 100)
+                .addComponent(lblEquipoLocalGrupoB2)
+                .addGap(10, 10, 10)
+                .addComponent(jTextField15, javax.swing.GroupLayout.PREFERRED_SIZE, 80, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addGap(97, 97, 97)
+                .addComponent(jTextField16, javax.swing.GroupLayout.PREFERRED_SIZE, 80, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addGap(10, 10, 10)
+                .addComponent(lblEquipoVisitanteGrupoB2)
+                .addGap(100, 100, 100))
         );
-        jPanel17Layout.setVerticalGroup(
-            jPanel17Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGroup(jPanel17Layout.createSequentialGroup()
+        jPanel33Layout.setVerticalGroup(
+            jPanel33Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(jPanel33Layout.createSequentialGroup()
                 .addGap(20, 20, 20)
-                .addGroup(jPanel17Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                    .addGroup(jPanel17Layout.createSequentialGroup()
-                        .addComponent(lblNombreEstadioGrupoB2)
-                        .addGap(18, 18, 18)
-                        .addComponent(lblEquipoVisitanteGrupoB2))
-                    .addGroup(jPanel17Layout.createSequentialGroup()
+                .addGroup(jPanel33Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                    .addComponent(lblNombreEstadioGrupoB2)
+                    .addGroup(jPanel33Layout.createSequentialGroup()
                         .addComponent(lblFechaPartidoGrupoB2)
-                        .addGap(18, 18, 18)
-                        .addComponent(lblEquipoLocalGrupoB2)))
-                .addGap(20, 20, 20))
+                        .addGap(20, 20, 20)
+                        .addGroup(jPanel33Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
+                            .addComponent(lblEquipoLocalGrupoB2)
+                            .addComponent(lblEquipoVisitanteGrupoB2)
+                            .addGroup(jPanel33Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
+                                .addComponent(jTextField15, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
+                                .addComponent(jTextField16, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)))))
+                .addContainerGap(18, Short.MAX_VALUE))
+        );
+
+        lblFechaPartidoGrupoB1.setText("FechaPartidoGrupoB");
+
+        lblNombreEstadioGrupoB1.setText("NombreEstadio");
+
+        lblEquipoLocalGrupoB1.setFont(new java.awt.Font("Segoe UI", 1, 14)); // NOI18N
+        lblEquipoLocalGrupoB1.setText("Equipo Local");
+
+        lblEquipoVisitanteGrupoB1.setFont(new java.awt.Font("Segoe UI", 1, 14)); // NOI18N
+        lblEquipoVisitanteGrupoB1.setText("Equipo Visitante");
+
+        jTextField13.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jTextField13ActionPerformed(evt);
+            }
+        });
+
+        jTextField14.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jTextField14ActionPerformed(evt);
+            }
+        });
+
+        javax.swing.GroupLayout jPanel3Layout = new javax.swing.GroupLayout(jPanel3);
+        jPanel3.setLayout(jPanel3Layout);
+        jPanel3Layout.setHorizontalGroup(
+            jPanel3Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(jPanel3Layout.createSequentialGroup()
+                .addComponent(lblFechaPartidoGrupoB1)
+                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+                .addComponent(lblNombreEstadioGrupoB1))
+            .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, jPanel3Layout.createSequentialGroup()
+                .addGap(100, 100, 100)
+                .addComponent(lblEquipoLocalGrupoB1)
+                .addGap(10, 10, 10)
+                .addComponent(jTextField13, javax.swing.GroupLayout.PREFERRED_SIZE, 80, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addGap(101, 101, 101)
+                .addComponent(jTextField14, javax.swing.GroupLayout.PREFERRED_SIZE, 80, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
+                .addComponent(lblEquipoVisitanteGrupoB1)
+                .addGap(100, 100, 100))
+        );
+        jPanel3Layout.setVerticalGroup(
+            jPanel3Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(jPanel3Layout.createSequentialGroup()
+                .addGap(20, 20, 20)
+                .addGroup(jPanel3Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                    .addGroup(jPanel3Layout.createSequentialGroup()
+                        .addComponent(lblNombreEstadioGrupoB1)
+                        .addGap(20, 20, 20)
+                        .addGroup(jPanel3Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
+                            .addComponent(lblEquipoVisitanteGrupoB1)
+                            .addComponent(lblEquipoLocalGrupoB1)
+                            .addGroup(jPanel3Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
+                                .addComponent(jTextField13, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
+                                .addComponent(jTextField14, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE))))
+                    .addComponent(lblFechaPartidoGrupoB1))
+                .addGap(18, 18, 18))
         );
 
         javax.swing.GroupLayout panelGrupoBLayout = new javax.swing.GroupLayout(panelGrupoB);
@@ -1093,38 +1414,33 @@ public class Ventana extends javax.swing.JFrame {
         panelGrupoBLayout.setHorizontalGroup(
             panelGrupoBLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(panelGrupoBLayout.createSequentialGroup()
-                .addGap(140, 140, 140)
+                .addContainerGap(40, Short.MAX_VALUE)
                 .addGroup(panelGrupoBLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING, false)
-                    .addComponent(jPanel4, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
-                    .addComponent(jPanel17, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
-                    .addComponent(jPanel16, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE))
-                .addGap(240, 240, 240)
-                .addGroup(panelGrupoBLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING, false)
-                    .addComponent(jPanel24, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
-                    .addComponent(jPanel25, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
-                    .addComponent(jPanel23, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE))
-                .addGap(140, 140, 140))
+                    .addComponent(jPanel31, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+                    .addGroup(panelGrupoBLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING, false)
+                        .addComponent(jPanel22, javax.swing.GroupLayout.Alignment.TRAILING, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+                        .addComponent(jPanel3, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+                        .addComponent(jPanel33, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+                        .addComponent(jPanel30, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+                        .addComponent(jPanel32, javax.swing.GroupLayout.PREFERRED_SIZE, 0, Short.MAX_VALUE)))
+                .addContainerGap(51, Short.MAX_VALUE))
         );
         panelGrupoBLayout.setVerticalGroup(
             panelGrupoBLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(panelGrupoBLayout.createSequentialGroup()
-                .addGap(71, 71, 71)
-                .addGroup(panelGrupoBLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.TRAILING)
-                    .addGroup(panelGrupoBLayout.createSequentialGroup()
-                        .addGroup(panelGrupoBLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.TRAILING)
-                            .addGroup(panelGrupoBLayout.createSequentialGroup()
-                                .addComponent(jPanel24, javax.swing.GroupLayout.PREFERRED_SIZE, 90, javax.swing.GroupLayout.PREFERRED_SIZE)
-                                .addGap(114, 114, 114))
-                            .addComponent(jPanel25, javax.swing.GroupLayout.PREFERRED_SIZE, 90, javax.swing.GroupLayout.PREFERRED_SIZE))
-                        .addGap(18, 18, 18)
-                        .addComponent(jPanel23, javax.swing.GroupLayout.PREFERRED_SIZE, 90, javax.swing.GroupLayout.PREFERRED_SIZE))
-                    .addGroup(panelGrupoBLayout.createSequentialGroup()
-                        .addComponent(jPanel4, javax.swing.GroupLayout.PREFERRED_SIZE, 90, javax.swing.GroupLayout.PREFERRED_SIZE)
-                        .addGap(24, 24, 24)
-                        .addComponent(jPanel17, javax.swing.GroupLayout.PREFERRED_SIZE, 90, javax.swing.GroupLayout.PREFERRED_SIZE)
-                        .addGap(18, 18, 18)
-                        .addComponent(jPanel16, javax.swing.GroupLayout.PREFERRED_SIZE, 90, javax.swing.GroupLayout.PREFERRED_SIZE)))
-                .addGap(71, 71, 71))
+                .addGap(50, 50, 50)
+                .addComponent(jPanel3, javax.swing.GroupLayout.PREFERRED_SIZE, 90, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addGap(10, 10, 10)
+                .addComponent(jPanel33, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addGap(10, 10, 10)
+                .addComponent(jPanel30, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addGap(0, 0, 0)
+                .addComponent(jPanel32, javax.swing.GroupLayout.PREFERRED_SIZE, 90, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addGap(10, 10, 10)
+                .addComponent(jPanel22, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addGap(10, 10, 10)
+                .addComponent(jPanel31, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
         );
 
         tabbedPane.addTab("B", panelGrupoB);
@@ -1135,14 +1451,12 @@ public class Ventana extends javax.swing.JFrame {
             panelBodyLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(panelBodyLayout.createSequentialGroup()
                 .addContainerGap()
-                .addComponent(tabbedPane, javax.swing.GroupLayout.PREFERRED_SIZE, 1241, javax.swing.GroupLayout.PREFERRED_SIZE)
-                .addContainerGap(33, Short.MAX_VALUE))
+                .addComponent(tabbedPane, javax.swing.GroupLayout.PREFERRED_SIZE, 760, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addContainerGap(35, Short.MAX_VALUE))
         );
         panelBodyLayout.setVerticalGroup(
             panelBodyLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGroup(panelBodyLayout.createSequentialGroup()
-                .addComponent(tabbedPane, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
-                .addContainerGap())
+            .addComponent(tabbedPane, javax.swing.GroupLayout.PREFERRED_SIZE, 680, Short.MAX_VALUE)
         );
 
         tabbedPane.getAccessibleContext().setAccessibleName("tabB");
@@ -1170,7 +1484,7 @@ public class Ventana extends javax.swing.JFrame {
                 .addGroup(panelHeaderLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
                     .addComponent(labelTitulo)
                     .addComponent(labelSubtitulo, javax.swing.GroupLayout.PREFERRED_SIZE, 395, javax.swing.GroupLayout.PREFERRED_SIZE))
-                .addContainerGap(637, Short.MAX_VALUE))
+                .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
         );
         panelHeaderLayout.setVerticalGroup(
             panelHeaderLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
@@ -1190,18 +1504,18 @@ public class Ventana extends javax.swing.JFrame {
         panelMainLayout.setHorizontalGroup(
             panelMainLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(panelMainLayout.createSequentialGroup()
-                .addGroup(panelMainLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                    .addComponent(panelBody, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
-                    .addComponent(panelHeader, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE))
-                .addGap(0, 0, Short.MAX_VALUE))
+                .addGroup(panelMainLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING, false)
+                    .addComponent(panelBody, javax.swing.GroupLayout.DEFAULT_SIZE, 801, Short.MAX_VALUE)
+                    .addComponent(panelHeader, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
+                .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
         );
         panelMainLayout.setVerticalGroup(
             panelMainLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(panelMainLayout.createSequentialGroup()
                 .addComponent(panelHeader, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
                 .addGap(18, 18, 18)
-                .addComponent(panelBody, javax.swing.GroupLayout.PREFERRED_SIZE, 440, javax.swing.GroupLayout.PREFERRED_SIZE)
-                .addContainerGap(45, Short.MAX_VALUE))
+                .addComponent(panelBody, javax.swing.GroupLayout.PREFERRED_SIZE, 680, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
         );
 
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());
@@ -1210,19 +1524,111 @@ public class Ventana extends javax.swing.JFrame {
             layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(layout.createSequentialGroup()
                 .addContainerGap()
-                .addComponent(panelMain, javax.swing.GroupLayout.PREFERRED_SIZE, 1251, javax.swing.GroupLayout.PREFERRED_SIZE)
-                .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
+                .addComponent(panelMain, javax.swing.GroupLayout.PREFERRED_SIZE, 759, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addContainerGap(71, Short.MAX_VALUE))
         );
         layout.setVerticalGroup(
             layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(layout.createSequentialGroup()
                 .addContainerGap()
-                .addComponent(panelMain, javax.swing.GroupLayout.DEFAULT_SIZE, 691, Short.MAX_VALUE))
+                .addComponent(panelMain, javax.swing.GroupLayout.DEFAULT_SIZE, 938, Short.MAX_VALUE))
         );
 
         pack();
         setLocationRelativeTo(null);
     }// </editor-fold>//GEN-END:initComponents
+
+    private void jTextField3ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField3ActionPerformed
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jTextField3ActionPerformed
+
+    private void jTextField4ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField4ActionPerformed
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jTextField4ActionPerformed
+
+    private void jTextField5ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField5ActionPerformed
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jTextField5ActionPerformed
+
+    private void jTextField6ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField6ActionPerformed
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jTextField6ActionPerformed
+
+    private void jTextField7ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField7ActionPerformed
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jTextField7ActionPerformed
+
+    private void jTextField8ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField8ActionPerformed
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jTextField8ActionPerformed
+
+    private void jTextField9ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField9ActionPerformed
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jTextField9ActionPerformed
+
+    private void jTextField10ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField10ActionPerformed
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jTextField10ActionPerformed
+
+    private void jTextField11ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField11ActionPerformed
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jTextField11ActionPerformed
+
+    private void jTextField12ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField12ActionPerformed
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jTextField12ActionPerformed
+
+    private void jTextField13ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField13ActionPerformed
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jTextField13ActionPerformed
+
+    private void jTextField14ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField14ActionPerformed
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jTextField14ActionPerformed
+
+    private void jTextField15ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField15ActionPerformed
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jTextField15ActionPerformed
+
+    private void jTextField16ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField16ActionPerformed
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jTextField16ActionPerformed
+
+    private void jTextField17ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField17ActionPerformed
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jTextField17ActionPerformed
+
+    private void jTextField18ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField18ActionPerformed
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jTextField18ActionPerformed
+
+    private void jTextField19ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField19ActionPerformed
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jTextField19ActionPerformed
+
+    private void jTextField20ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField20ActionPerformed
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jTextField20ActionPerformed
+
+    private void jTextField21ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField21ActionPerformed
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jTextField21ActionPerformed
+
+    private void jTextField22ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField22ActionPerformed
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jTextField22ActionPerformed
+
+    private void jTextField23ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField23ActionPerformed
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jTextField23ActionPerformed
+
+    private void jTextField24ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField24ActionPerformed
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jTextField24ActionPerformed
+
+    private void jTextField25ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField25ActionPerformed
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jTextField25ActionPerformed
 
     /**
      * @param args the command line arguments
@@ -1260,24 +1666,61 @@ public class Ventana extends javax.swing.JFrame {
     }
 
     // Variables declaration - do not modify//GEN-BEGIN:variables
+    private javax.swing.JPanel jPanel1;
     private javax.swing.JPanel jPanel14;
     private javax.swing.JPanel jPanel15;
-    private javax.swing.JPanel jPanel16;
-    private javax.swing.JPanel jPanel17;
-    private javax.swing.JPanel jPanel18;
     private javax.swing.JPanel jPanel19;
     private javax.swing.JPanel jPanel2;
     private javax.swing.JPanel jPanel20;
     private javax.swing.JPanel jPanel21;
+    private javax.swing.JPanel jPanel22;
     private javax.swing.JPanel jPanel23;
-    private javax.swing.JPanel jPanel24;
-    private javax.swing.JPanel jPanel25;
-    private javax.swing.JPanel jPanel26;
-    private javax.swing.JPanel jPanel27;
-    private javax.swing.JPanel jPanel28;
-    private javax.swing.JPanel jPanel29;
+    private javax.swing.JPanel jPanel3;
+    private javax.swing.JPanel jPanel30;
+    private javax.swing.JPanel jPanel31;
+    private javax.swing.JPanel jPanel32;
+    private javax.swing.JPanel jPanel33;
+    private javax.swing.JPanel jPanel34;
+    private javax.swing.JPanel jPanel35;
+    private javax.swing.JPanel jPanel36;
+    private javax.swing.JPanel jPanel37;
     private javax.swing.JPanel jPanel4;
-    private javax.swing.JPanel jPanel5;
+    private javax.swing.JTextField jTextField1;
+    private javax.swing.JTextField jTextField10;
+    private javax.swing.JTextField jTextField11;
+    private javax.swing.JTextField jTextField12;
+    private javax.swing.JTextField jTextField13;
+    private javax.swing.JTextField jTextField14;
+    private javax.swing.JTextField jTextField15;
+    private javax.swing.JTextField jTextField16;
+    private javax.swing.JTextField jTextField17;
+    private javax.swing.JTextField jTextField18;
+    private javax.swing.JTextField jTextField19;
+    private javax.swing.JTextField jTextField2;
+    private javax.swing.JTextField jTextField20;
+    private javax.swing.JTextField jTextField21;
+    private javax.swing.JTextField jTextField22;
+    private javax.swing.JTextField jTextField23;
+    private javax.swing.JTextField jTextField24;
+    private javax.swing.JTextField jTextField25;
+    private javax.swing.JTextField jTextField26;
+    private javax.swing.JTextField jTextField27;
+    private javax.swing.JTextField jTextField28;
+    private javax.swing.JTextField jTextField29;
+    private javax.swing.JTextField jTextField3;
+    private javax.swing.JTextField jTextField30;
+    private javax.swing.JTextField jTextField31;
+    private javax.swing.JTextField jTextField32;
+    private javax.swing.JTextField jTextField33;
+    private javax.swing.JTextField jTextField34;
+    private javax.swing.JTextField jTextField35;
+    private javax.swing.JTextField jTextField36;
+    private javax.swing.JTextField jTextField4;
+    private javax.swing.JTextField jTextField5;
+    private javax.swing.JTextField jTextField6;
+    private javax.swing.JTextField jTextField7;
+    private javax.swing.JTextField jTextField8;
+    private javax.swing.JTextField jTextField9;
     private javax.swing.JLabel labelLogo;
     private javax.swing.JLabel labelSubtitulo;
     private javax.swing.JLabel labelTitulo;
@@ -1517,7 +1960,7 @@ public class Ventana extends javax.swing.JFrame {
             lblNombreEstadioGrupoC6,};
 
         javax.swing.JLabel[] EquipoLocalGrupoC = {
-            lblEquipoLocalGrupoC1,
+            lblEquipoLocalGrupoC2,
             lblEquipoLocalGrupoC2,
             lblEquipoLocalGrupoC3,
             lblEquipoLocalGrupoC4,
